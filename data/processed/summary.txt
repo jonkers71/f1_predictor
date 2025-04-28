@@ -1,0 +1,13 @@
+F1 Data Cleaning Summary
+Total entries: 32565
+Missing values before fill: 35410
+Columns with missing values:
+ - i1_speed: 2350 missing
+ - segments_sector_1: 55 missing
+ - segments_sector_2: 20 missing
+ - segments_sector_3: 10 missing
+ - st_speed: 410 missing
+ - country_name: 32565 missing
+
+Missing values filled.
+Cleaned data saved to: data/processed/cleaned_f1_data.csv

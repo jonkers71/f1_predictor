@@ -1,0 +1,523 @@
+2025-04-24 11:07:11,321 - INFO - Found 28 sessions in CSV.
+2025-04-24 11:07:11,322 - INFO - 
+Trying with 2 concurrent requests...
+2025-04-24 11:07:25,055 - INFO - ✅ Saved 400 lap entries for session 9683.
+2025-04-24 11:07:25,056 - INFO - ✅ Successfully processed session 9683.
+2025-04-24 11:07:26,885 - INFO - ✅ Saved 360 lap entries for session 9684.
+2025-04-24 11:07:26,886 - INFO - ✅ Successfully processed session 9684.
+2025-04-24 11:07:38,858 - INFO - ✅ Saved 383 lap entries for session 9686.
+2025-04-24 11:07:38,859 - INFO - ✅ Successfully processed session 9686.
+2025-04-24 11:07:39,126 - INFO - ✅ Saved 360 lap entries for session 9685.
+2025-04-24 11:07:39,127 - INFO - ✅ Successfully processed session 9685.
+2025-04-24 11:07:51,479 - INFO - ✅ Saved 380 lap entries for session 9687.
+2025-04-24 11:07:52,678 - INFO - ✅ Saved 338 lap entries for session 9688.
+2025-04-24 11:08:04,638 - INFO - ✅ Saved 296 lap entries for session 9689.
+2025-04-24 11:08:10,096 - INFO - Found 28 sessions in CSV.
+2025-04-24 11:08:10,097 - INFO - 
+Trying with 2 concurrent requests...
+2025-04-24 11:08:21,013 - INFO - Writing headers to CSV...
+2025-04-24 11:08:21,025 - INFO - ✅ Saved 360 lap entries for session 9684.
+2025-04-24 11:08:21,026 - INFO - ✅ Successfully processed session 9684.
+2025-04-24 11:08:22,587 - INFO - ✅ Saved 400 lap entries for session 9683.
+2025-04-24 11:08:22,588 - INFO - ✅ Successfully processed session 9683.
+2025-04-24 11:08:31,452 - INFO - ✅ Saved 360 lap entries for session 9685.
+2025-04-24 11:08:31,453 - INFO - ✅ Successfully processed session 9685.
+2025-04-24 11:08:33,636 - INFO - ✅ Saved 383 lap entries for session 9686.
+2025-04-24 11:08:33,636 - INFO - ✅ Successfully processed session 9686.
+2025-04-24 11:08:42,348 - INFO - ✅ Saved 380 lap entries for session 9687.
+2025-04-24 11:08:42,349 - INFO - ✅ Successfully processed session 9687.
+2025-04-24 11:08:43,476 - INFO - ✅ Saved 338 lap entries for session 9688.
+2025-04-24 11:08:43,477 - INFO - ✅ Successfully processed session 9688.
+2025-04-24 11:08:53,584 - INFO - ✅ Saved 296 lap entries for session 9689.
+2025-04-24 11:08:53,584 - INFO - ✅ Successfully processed session 9689.
+2025-04-24 11:08:54,189 - INFO - ✅ Saved 343 lap entries for session 9693.
+2025-04-24 11:08:54,190 - INFO - ✅ Successfully processed session 9693.
+2025-04-24 11:09:05,160 - INFO - ✅ Saved 396 lap entries for session 9988.
+2025-04-24 11:09:05,162 - INFO - ✅ Successfully processed session 9988.
+2025-04-24 11:09:08,729 - INFO - ✅ Saved 217 lap entries for session 9989.
+2025-04-24 11:09:08,729 - INFO - ✅ Successfully processed session 9989.
+2025-04-24 11:09:20,937 - INFO - ✅ Saved 380 lap entries for session 9993.
+2025-04-24 11:09:20,938 - INFO - ✅ Successfully processed session 9993.
+2025-04-24 11:09:23,698 - INFO - ✅ Saved 308 lap entries for session 9994.
+2025-04-24 11:09:23,699 - INFO - ✅ Successfully processed session 9994.
+2025-04-24 11:09:34,797 - INFO - ✅ Saved 384 lap entries for session 9998.
+2025-04-24 11:09:34,797 - INFO - ✅ Successfully processed session 9998.
+2025-04-24 11:09:37,919 - INFO - ✅ Saved 397 lap entries for session 9999.
+2025-04-24 11:09:37,920 - INFO - ✅ Successfully processed session 9999.
+2025-04-24 11:09:47,613 - INFO - ✅ Saved 202 lap entries for session 10000.
+2025-04-24 11:09:47,614 - INFO - ✅ Successfully processed session 10000.
+2025-04-24 11:09:51,749 - INFO - ✅ Saved 325 lap entries for session 10001.
+2025-04-24 11:09:51,750 - INFO - ✅ Successfully processed session 10001.
+2025-04-24 11:10:01,580 - INFO - ✅ Saved 286 lap entries for session 10002.
+2025-04-24 11:10:01,581 - INFO - ✅ Successfully processed session 10002.
+2025-04-24 11:10:05,436 - INFO - ✅ Saved 400 lap entries for session 10006.
+2025-04-24 11:10:05,437 - INFO - ✅ Successfully processed session 10006.
+2025-04-24 11:10:17,069 - INFO - ✅ Saved 381 lap entries for session 10007.
+2025-04-24 11:10:17,070 - INFO - ✅ Successfully processed session 10007.
+2025-04-24 11:10:20,938 - INFO - ✅ Saved 399 lap entries for session 10008.
+2025-04-24 11:10:20,938 - INFO - ✅ Successfully processed session 10008.
+2025-04-24 11:10:30,150 - INFO - ✅ Saved 309 lap entries for session 10009.
+2025-04-24 11:10:30,151 - INFO - ✅ Successfully processed session 10009.
+2025-04-24 11:10:34,186 - INFO - ✅ Saved 277 lap entries for session 10010.
+2025-04-24 11:10:34,187 - INFO - ✅ Successfully processed session 10010.
+2025-04-24 11:10:43,573 - INFO - ✅ Saved 400 lap entries for session 10014.
+2025-04-24 11:10:43,575 - INFO - ✅ Successfully processed session 10014.
+2025-04-24 11:10:47,698 - INFO - ✅ Saved 394 lap entries for session 10015.
+2025-04-24 11:10:47,699 - INFO - ✅ Successfully processed session 10015.
+2025-04-24 11:10:58,068 - INFO - ✅ Saved 363 lap entries for session 10016.
+2025-04-24 11:10:58,069 - INFO - ✅ Successfully processed session 10016.
+2025-04-24 11:11:01,690 - INFO - ✅ Saved 351 lap entries for session 10017.
+2025-04-24 11:11:01,690 - INFO - ✅ Successfully processed session 10017.
+2025-04-24 11:11:11,070 - INFO - ✅ Saved 281 lap entries for session 10018.
+2025-04-24 11:11:11,071 - INFO - ✅ Successfully processed session 10018.
+2025-04-24 11:11:18,488 - INFO - ✅ Saved 361 lap entries for session 10022.
+2025-04-24 11:11:18,489 - INFO - ✅ Successfully processed session 10022.
+2025-04-24 11:11:18,490 - INFO - ✅ All sessions processed successfully. Max concurrent requests increased to 3
+2025-04-24 11:11:52,685 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:11:52,693 - DatasetBuilder - INFO - 🧹 Cleaning and filtering data...
+2025-04-24 11:11:52,701 - DatasetBuilder - INFO - 🗑️ Removed 9136 laps with invalid durations.
+2025-04-24 11:14:16,035 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:14:16,054 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-24 11:14:16,054 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-24 11:14:16,323 - DatasetBuilder - INFO - ✅ Cleaned data saved to data/processed/cleaned_f1_data.csv
+2025-04-24 11:18:37,056 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:18:44,506 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:19:27,904 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:19:27,917 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-24 11:19:33,433 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:19:33,443 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-24 11:21:08,243 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:21:08,244 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
+2025-04-24 11:21:08,254 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
+2025-04-24 11:21:08,254 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-24 11:21:08,264 - DatasetBuilder - WARNING - ❌ 'session_type' column not found. Skipping filtering.
+2025-04-24 11:21:08,274 - DatasetBuilder - WARNING - ⚠️ Still missing values: 40441
+2025-04-24 11:21:08,274 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 36979
+2025-04-24 11:21:08,280 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-24 11:21:08,281 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-24 11:21:08,541 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
+2025-04-24 11:26:08,016 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-24 11:26:08,017 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
+2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
+2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
+2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-24 11:26:08,061 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
+2025-04-24 11:26:08,062 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
+2025-04-24 11:26:08,066 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-24 11:26:08,067 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-24 11:26:08,298 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
+2025-04-24 13:14:55,158 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:14:55,158 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:14:55,165 - XGBoostTrainer - INFO - Training XGBoost model...
+2025-04-24 13:14:55,267 - XGBoostTrainer - INFO - Predicting lap times on test data...
+2025-04-24 13:14:55,271 - XGBoostTrainer - INFO - RMSE (Root Mean Squared Error): 19.8678
+2025-04-24 13:14:55,271 - XGBoostTrainer - INFO - Starting GridSearchCV for hyperparameter tuning...
+2025-04-24 13:15:10,176 - XGBoostTrainer - INFO - Best parameters: {'colsample_bytree': 0.5, 'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 100}
+2025-04-24 13:15:10,181 - XGBoostTrainer - INFO - Best Model RMSE: 18.3402
+2025-04-24 13:15:10,181 - XGBoostTrainer - INFO - Saving best model to models/xgb_best_model.json...
+2025-04-24 13:15:10,190 - XGBoostTrainer - INFO - Generating feature importance plot...
+2025-04-24 13:15:10,544 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
+2025-04-24 13:15:10,608 - XGBoostTrainer - INFO - Making a prediction for a new lap...
+2025-04-24 13:15:10,612 - XGBoostTrainer - INFO - Predicted lap time: 115.1765
+2025-04-24 13:21:53,231 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:21:53,231 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:21:53,411 - XGBoostTrainer - INFO - Training XGBoost model...
+2025-04-24 13:35:10,574 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:35:16,640 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:36:18,402 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:36:26,755 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
+2025-04-24 13:36:26,755 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
+2025-04-24 13:41:50,522 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:41:50,522 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:41:50,702 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:42:56,947 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:42:56,948 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:42:57,022 - XGBoostTrainer - WARNING - Missing features: {'team_name', 'car_model'}, skipping them.
+2025-04-24 13:42:57,131 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:43:05,684 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
+2025-04-24 13:43:05,684 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
+2025-04-24 13:45:19,423 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
+2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Missing features: {'car_model', 'team_name'}, skipping them.
+2025-04-24 13:45:19,532 - XGBoostTrainer - INFO - Splitting data into training and testing sets...
+2025-04-24 13:45:19,636 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:45:19,636 - XGBoostTrainer - INFO - Fitting the base model...
+2025-04-24 13:46:51,540 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
+2025-04-24 13:46:51,629 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
+2025-04-24 13:46:51,629 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
+2025-04-24 13:46:51,630 - XGBoostTrainer - WARNING - Missing features: {'team_name', 'car_model'}, skipping them.
+2025-04-24 13:46:51,705 - XGBoostTrainer - INFO - Splitting data into training and testing sets...
+2025-04-24 13:46:51,810 - XGBoostTrainer - INFO - Training base XGBoost model...
+2025-04-24 13:46:51,810 - XGBoostTrainer - INFO - Fitting the base model...
+2025-04-24 13:47:00,145 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
+2025-04-24 13:47:00,145 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
+2025-04-24 14:10:14,199 - Main - INFO - Starting F1 ML Project
+2025-04-24 14:10:29,275 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 14:10:29,398 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 52, in simulate_past
+    available_races = session_data['race_name'].unique()
+                      ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 17:56:37,284 - Main - INFO - Starting F1 ML Project
+2025-04-24 17:56:41,891 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 17:56:42,015 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 52, in simulate_past
+    available_races = session_data['race_name'].unique()
+                      ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 18:00:53,876 - Main - INFO - Starting F1 ML Project
+2025-04-24 18:05:58,141 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 18:05:58,269 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 18:11:49,777 - Main - INFO - Starting F1 ML Project
+2025-04-24 18:11:52,683 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 18:11:52,778 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 18:17:05,681 - Main - INFO - Starting F1 ML Project
+2025-04-24 18:17:07,775 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 18:17:07,893 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 18:39:34,699 - Main - INFO - Starting F1 ML Project
+2025-04-24 18:39:36,476 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 18:39:36,598 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 20:13:48,757 - Main - INFO - Starting F1 ML Project
+2025-04-24 20:13:53,952 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 20:13:54,072 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 20:56:41,268 - Main - INFO - Starting F1 ML Project
+2025-04-24 20:56:43,815 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 20:56:43,933 - Main - ERROR - Unexpected error in main: 'race_name'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'race_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_races = sorted(session_data['race_name'].unique())
+                             ~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'race_name'
+2025-04-24 21:00:18,511 - Main - INFO - Starting F1 ML Project
+2025-04-24 21:00:20,574 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:00:20,677 - Main - ERROR - Unexpected error in main: 'country'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'country'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
+    available_countries = sorted(session_data['country'].unique())
+                                 ~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'country'
+2025-04-24 21:02:22,836 - Main - INFO - Starting F1 ML Project
+2025-04-24 21:02:24,404 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:02:24,539 - Main - ERROR - Unexpected error in main: 'country'
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'country'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
+    display_menu()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
+    simulate_past()
+  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 60, in simulate_past
+    available_countries = sorted(session_data['country'].unique())
+                                 ~~~~~~~~~~~~^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'country'
+2025-04-24 21:06:53,835 - Main - INFO - Starting F1 ML Project
+2025-04-24 21:06:55,421 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:08:37,927 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:08:54,042 - Main - INFO - Starting F1 ML Project
+2025-04-24 21:08:56,296 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:09:30,829 - Menu - INFO - User selected: Simulate Past Race
+2025-04-24 21:26:08,041 - Main - INFO - Starting F1 ML Project
+2025-04-24 21:26:09,865 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 07:26:55,126 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 07:26:58,609 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 07:26:59,689 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 07:27:02,791 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 07:27:35,305 - Main - INFO - Starting F1 ML Project
+2025-04-25 07:27:38,387 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 10:19:26,226 - DatasetBuilder - INFO - 📥 Reading input data...
+2025-04-25 10:19:26,287 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-25 10:19:26,290 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
+2025-04-25 10:19:26,302 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
+2025-04-25 10:19:26,303 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
+2025-04-25 10:19:26,303 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-25 10:19:26,338 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
+2025-04-25 10:19:26,338 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
+2025-04-25 10:19:26,343 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-25 10:19:26,344 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-25 10:19:26,677 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
+2025-04-25 10:20:34,528 - DatasetBuilder - INFO - 📥 Reading input data...
+2025-04-25 10:20:34,552 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-25 10:20:34,553 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
+2025-04-25 10:20:34,567 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
+2025-04-25 10:20:34,568 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
+2025-04-25 10:20:34,568 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-25 10:20:34,597 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
+2025-04-25 10:20:34,597 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
+2025-04-25 10:20:34,602 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-25 10:20:34,602 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-25 10:20:34,839 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
+2025-04-25 10:21:30,492 - Main - INFO - Starting F1 ML Project
+2025-04-25 10:21:32,819 - Menu - INFO - User selected: Simulate Past Race
+2025-04-25 10:31:40,355 - DatasetBuilder - INFO - 📥 Reading input data...
+2025-04-25 10:31:40,383 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
+2025-04-25 10:31:40,384 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
+2025-04-25 10:31:40,396 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
+2025-04-25 10:31:40,396 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
+2025-04-25 10:31:40,397 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
+2025-04-25 10:31:40,425 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
+2025-04-25 10:31:40,425 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
+2025-04-25 10:31:40,430 - DatasetBuilder - INFO - 📝 Generating summary...
+2025-04-25 10:31:40,431 - DatasetBuilder - INFO - 💾 Saving cleaned data...
+2025-04-25 10:31:40,688 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
+2025-04-25 10:36:48,329 - WeatherFetcher - INFO - 🌤️ Starting weather fetch for 28 sessions...
+2025-04-25 10:36:49,433 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9683: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9683
+2025-04-25 10:36:50,256 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9684: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9684
+2025-04-25 10:36:50,861 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9685: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9685
+2025-04-25 10:36:51,518 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9686: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9686
+2025-04-25 10:36:52,352 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9687: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9687
+2025-04-25 10:36:52,943 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9688: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9688
+2025-04-25 10:36:53,564 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9689: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9689
+2025-04-25 10:36:54,453 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9693: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9693
+2025-04-25 10:36:55,056 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9988: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9988
+2025-04-25 10:36:55,643 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9989: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9989
+2025-04-25 10:36:56,547 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9993: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9993
+2025-04-25 10:36:57,163 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9994: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9994
+2025-04-25 10:36:57,764 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9998: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9998
+2025-04-25 10:36:58,389 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9999: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=9999
+2025-04-25 10:36:59,037 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10000: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10000
+2025-04-25 10:36:59,701 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10001: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10001
+2025-04-25 10:37:00,313 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10002: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10002
+2025-04-25 10:37:00,929 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10006: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10006
+2025-04-25 10:37:01,652 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10007: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10007
+2025-04-25 10:37:02,329 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10008: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10008
+2025-04-25 10:37:02,915 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10009: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10009
+2025-04-25 10:37:03,599 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10010: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10010
+2025-04-25 10:37:04,420 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10014: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10014
+2025-04-25 10:37:05,020 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10015: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10015
+2025-04-25 10:37:05,984 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10016: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10016
+2025-04-25 10:37:06,574 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10017: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10017
+2025-04-25 10:37:07,226 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10018: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10018
+2025-04-25 10:37:08,081 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10022: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10022
+2025-04-25 10:37:08,085 - WeatherFetcher - INFO - ✅ Saved weather data for 0 sessions.
