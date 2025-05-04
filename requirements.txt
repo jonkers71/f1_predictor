@@ -5,3 +5,6 @@ scikit-learn
 requests
 aiohttp>=3.8
 tqdm>=4.65
+
+xgboost
+

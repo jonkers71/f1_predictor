@@ -1,13 +1,50 @@
-F1 Data Cleaning Summary
-Total entries: 32565
-Missing values before fill: 35410
-Columns with missing values:
- - i1_speed: 2350 missing
- - segments_sector_1: 55 missing
- - segments_sector_2: 20 missing
- - segments_sector_3: 10 missing
- - st_speed: 410 missing
- - country_name: 32565 missing
+--- F1 Data Cleaning Summary ---
+Timestamp: 2025-05-04T09:02:05.071038
+Total entries after cleaning: 135551
+Data saved to: /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv
 
-Missing values filled.
-Cleaned data saved to: data/processed/cleaned_f1_data.csv
+Columns and Data Types:
+date_start                 object
+driver_number               int64
+duration_sector_1         float64
+duration_sector_2         float64
+duration_sector_3         float64
+i1_speed                  float64
+i2_speed                  float64
+is_pit_out_lap               bool
+lap_duration              float64
+lap_number                  int64
+segments_sector_1          object
+segments_sector_2          object
+segments_sector_3          object
+session_key                 int64
+st_speed                  float64
+country_name               object
+date                       object
+session_name               object
+meeting_key                 int64
+air_temperature           float64
+humidity                  float64
+pressure                  float64
+rainfall                    int64
+track_temperature         float64
+wind_direction              int64
+wind_speed                float64
+session_type               object
+year                        int32
+race_weekend               object
+rolling_avg_lap_time_3    float64
+
+Missing Values (Post-Cleaning):
+date_start    8
+
+Basic Statistics (Numeric Columns):
+       driver_number  duration_sector_1  duration_sector_2  duration_sector_3       i1_speed       i2_speed   lap_duration     lap_number    session_key       st_speed    meeting_key  air_temperature       humidity       pressure  rainfall  track_temperature  wind_direction     wind_speed           year  rolling_avg_lap_time_3
+count  135551.000000      135551.000000      135551.000000      135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000    135551.000000  135551.000000  135551.000000  135551.0      135551.000000   135551.000000  135551.000000  135551.000000           135551.000000
+mean       28.708604          65.018525          37.747516          34.172090     239.454471     237.769489     137.506517      21.049686    9319.611585     281.441819    1225.489299        23.480232      54.147472     991.519492       0.0          32.072724      181.788626       1.679496    2023.678055              138.168889
+std        23.735091         162.177014          10.001793          54.080185      51.596386      52.038962     172.970880      17.376902     503.991467      49.181443      29.263933         4.866373      14.894740      50.191858       0.0           7.676314       98.597484       1.009248       0.673043              117.423822
+min         1.000000          16.251000         -39.781000          16.061000      32.000000      26.000000      64.314000       1.000000    7763.000000      25.000000    1140.000000        14.600000      19.000000     778.500000       0.0          17.600000        0.000000       0.000000    2023.000000               64.314000
+25%        11.000000          26.584000          30.478000          23.939000     209.000000     198.000000      84.711500       8.000000    9149.000000     275.000000    1216.000000        19.300000      44.000000     992.800000       0.0          27.300000      116.000000       1.000000    2023.000000               88.268333
+50%        22.000000          30.389000          37.117000          27.880000     242.000000     249.000000      96.479000      16.000000    9489.000000     297.000000    1232.000000        23.900000      55.000000    1009.700000       0.0          30.700000      181.000000       1.600000    2024.000000               99.794333
+75%        44.000000          35.904000          42.912000          34.382500     281.000000     276.000000     112.984000      29.000000    9601.000000     310.000000    1245.000000        26.900000      63.000000    1015.700000       0.0          38.700000      260.000000       2.100000    2024.000000              127.290500
+max        98.000000        3417.244000         129.508000        2491.734000     357.000000     346.000000    3500.164000     158.000000   10029.000000     362.000000    1259.000000        32.200000      89.000000    1020.000000       0.0          47.900000      340.000000       5.900000    2025.000000             3437.174000

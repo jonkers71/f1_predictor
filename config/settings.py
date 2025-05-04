@@ -11,7 +11,7 @@ WEATHER_DATA_PATH = os.path.join(RAW_DATA_PATH, "weather_raw.csv")
 LAP_DATA_PATH = os.path.join(RAW_DATA_PATH, "lap_data.csv")
 
 # OpenF1 API URL
-OPENF1_API_URL = "https://api.openf1.org/"
+OPENF1_API_URL = "https://api.openf1.org/v1/"
 
 # Optional: Configure paths for logging or other components
 LOGGING_PATH = os.path.join(PROJECT_ROOT, "logs")
@@ -23,3 +23,7 @@ MAX_RETRIES = 5
 
 # Optional: Add extra paths for import resolution in IDEs
 EXTRA_PYTHON_PATHS = [DATA_PATH]
+
+
+# Logging Configuration
+LOGGING_ENABLED = True
