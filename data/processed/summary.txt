@@ -1,11 +1,11 @@
---- F1 Data Cleaning Summary ---
-Timestamp: 2025-05-04T09:02:05.071038
-Total entries after cleaning: 135551
-Data saved to: /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv
+--- Data Summary (2025-05-05 12:04:04) ---
+
+Total rows: 131459
+Total columns: 34
 
 Columns and Data Types:
 date_start                 object
-driver_number               int64
+driver_number               Int64
 duration_sector_1         float64
 duration_sector_2         float64
 duration_sector_3         float64
@@ -14,37 +14,129 @@ i2_speed                  float64
 is_pit_out_lap               bool
 lap_duration              float64
 lap_number                  int64
+meeting_key_x               int64
 segments_sector_1          object
 segments_sector_2          object
 segments_sector_3          object
 session_key                 int64
 st_speed                  float64
+meeting_key_y               int64
 country_name               object
-date                       object
+session_date               object
 session_name               object
+circuit_short_name         object
+year                        int32
 meeting_key                 int64
 air_temperature           float64
 humidity                  float64
 pressure                  float64
-rainfall                    int64
+rainfall                  float64
 track_temperature         float64
-wind_direction              int64
+wind_direction            float64
 wind_speed                float64
+race_position               int64
 session_type               object
-year                        int32
 race_weekend               object
 rolling_avg_lap_time_3    float64
 
-Missing Values (Post-Cleaning):
+Missing Values per Column:
 date_start    8
 
-Basic Statistics (Numeric Columns):
-       driver_number  duration_sector_1  duration_sector_2  duration_sector_3       i1_speed       i2_speed   lap_duration     lap_number    session_key       st_speed    meeting_key  air_temperature       humidity       pressure  rainfall  track_temperature  wind_direction     wind_speed           year  rolling_avg_lap_time_3
-count  135551.000000      135551.000000      135551.000000      135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000  135551.000000    135551.000000  135551.000000  135551.000000  135551.0      135551.000000   135551.000000  135551.000000  135551.000000           135551.000000
-mean       28.708604          65.018525          37.747516          34.172090     239.454471     237.769489     137.506517      21.049686    9319.611585     281.441819    1225.489299        23.480232      54.147472     991.519492       0.0          32.072724      181.788626       1.679496    2023.678055              138.168889
-std        23.735091         162.177014          10.001793          54.080185      51.596386      52.038962     172.970880      17.376902     503.991467      49.181443      29.263933         4.866373      14.894740      50.191858       0.0           7.676314       98.597484       1.009248       0.673043              117.423822
-min         1.000000          16.251000         -39.781000          16.061000      32.000000      26.000000      64.314000       1.000000    7763.000000      25.000000    1140.000000        14.600000      19.000000     778.500000       0.0          17.600000        0.000000       0.000000    2023.000000               64.314000
-25%        11.000000          26.584000          30.478000          23.939000     209.000000     198.000000      84.711500       8.000000    9149.000000     275.000000    1216.000000        19.300000      44.000000     992.800000       0.0          27.300000      116.000000       1.000000    2023.000000               88.268333
-50%        22.000000          30.389000          37.117000          27.880000     242.000000     249.000000      96.479000      16.000000    9489.000000     297.000000    1232.000000        23.900000      55.000000    1009.700000       0.0          30.700000      181.000000       1.600000    2024.000000               99.794333
-75%        44.000000          35.904000          42.912000          34.382500     281.000000     276.000000     112.984000      29.000000    9601.000000     310.000000    1245.000000        26.900000      63.000000    1015.700000       0.0          38.700000      260.000000       2.100000    2024.000000              127.290500
-max        98.000000        3417.244000         129.508000        2491.734000     357.000000     346.000000    3500.164000     158.000000   10029.000000     362.000000    1259.000000        32.200000      89.000000    1020.000000       0.0          47.900000      340.000000       5.900000    2025.000000             3437.174000
+Basic Statistics for Numeric Columns:
+       driver_number  duration_sector_1  duration_sector_2  duration_sector_3       i1_speed       i2_speed   lap_duration     lap_number  meeting_key_x    session_key       st_speed  meeting_key_y           year    meeting_key  air_temperature       humidity       pressure  rainfall  track_temperature  wind_direction     wind_speed  race_position  rolling_avg_lap_time_3
+count       131459.0      131459.000000      131459.000000      131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000  131459.000000    131459.000000  131459.000000  131459.000000  131459.0      131459.000000   131459.000000  131459.000000       131459.0           131459.000000
+mean       28.692802          66.202407          37.736196          34.330633     238.826691     238.033045     138.853956      21.446672    1225.388463    9318.527944     280.869663    1225.388463    2023.685598    1225.388463        23.446807      54.123620     992.134253       0.0          31.989865      185.943108       1.674562           99.0              139.516156
+std        23.735181         164.531035          10.035556          54.876296      51.495251      52.247663     175.420307      17.530735      29.635841     510.990339      49.318644      29.635841       0.679308      29.635841         4.851886      14.753453      50.380269       0.0           7.646861       99.372765       1.017151            0.0              118.911918
+min              1.0          16.251000         -39.781000          16.061000      32.000000      26.000000      64.314000       1.000000    1140.000000    7763.000000      25.000000    1140.000000    2023.000000    1140.000000        14.600000      19.000000     778.500000       0.0          17.600000        0.000000       0.000000           99.0               64.314000
+25%             11.0          26.791000          30.431000          23.980000     209.000000     198.000000      84.968500       8.000000    1216.000000    9145.000000     274.000000    1216.000000    2023.000000    1216.000000        19.300000      44.000000     996.000000       0.0          27.300000      116.000000       1.000000           99.0               88.913833
+50%             22.0          30.498000          37.028500          27.895000     242.000000     249.000000      96.437000      16.000000    1232.000000    9489.000000     296.000000    1232.000000    2024.000000    1232.000000        23.900000      55.000000    1009.700000       0.0          30.700000      192.000000       1.600000           99.0               99.883000
+75%             44.0          36.052000          42.970000          34.388500     281.000000     277.000000     113.637000      30.000000    1245.000000    9600.000000     310.000000    1245.000000    2024.000000    1245.000000        26.900000      63.000000    1015.700000       0.0          36.900000      260.000000       2.100000           99.0              128.340667
+max             98.0        3417.244000         129.508000        2491.734000     357.000000     346.000000    3500.164000     158.000000    1259.000000   10033.000000     362.000000    1259.000000    2025.000000    1259.000000        32.200000      89.000000    1020.000000       0.0          47.900000      340.000000       5.900000           99.0             3437.174000
+
+Value Counts for Key Categorical Columns:
+
+--- session_type ---
+session_type
+practice             58799
+race                 54998
+qualifying           14822
+sprint_qualifying     2840
+
+--- driver_number ---
+driver_number
+16    6955
+63    6952
+55    6901
+44    6876
+1     6814
+81    6789
+4     6782
+14    6688
+22    6477
+10    6415
+27    6300
+31    6217
+23    6098
+18    6083
+77    5684
+11    5648
+24    5452
+20    5246
+2     4294
+3     3047
+
+--- country_name ---
+country_name
+United States           14952
+Bahrain                 14840
+Italy                    7630
+Australia                7422
+Saudi Arabia             7005
+Monaco                   6694
+Japan                    6190
+Spain                    5785
+Mexico                   5678
+Canada                   5486
+Hungary                  5466
+Netherlands              5439
+Singapore                5296
+Great Britain            5091
+United Arab Emirates     4961
+Austria                  4394
+Qatar                    4022
+Azerbaijan               3979
+Brazil                   3928
+China                    3827
+
+--- year ---
+year
+2024    57802
+2023    57494
+2025    16163
+
+--- race_weekend ---
+race_weekend
+2023_United_States    6850
+2024_United_States    6412
+2023_Bahrain          6312
+2025_Bahrain          5969
+2024_Italy            5141
+2024_Monaco           3355
+2023_Monaco           3339
+2023_Netherlands      2993
+2023_Spain            2954
+2023_Mexico           2946
+2024_Hungary          2848
+2024_Spain            2831
+2023_Canada           2751
+2024_Canada           2735
+2024_Mexico           2732
+2024_Singapore        2683
+2023_Hungary          2618
+2023_Singapore        2613
+2024_Australia        2569
+2024_Bahrain          2559
+
+--- race_position ---
+race_position
+99    131459

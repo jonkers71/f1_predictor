@@ -1,0 +1,880 @@
+year,round,driver_id,driver_number,position,points,status
+2023,1,max_verstappen,1,1,25,Finished
+2023,1,perez,11,2,18,Finished
+2023,1,alonso,14,3,15,Finished
+2023,1,sainz,55,4,12,Finished
+2023,1,hamilton,44,5,10,Finished
+2023,1,stroll,18,6,8,Finished
+2023,1,russell,63,7,6,Finished
+2023,1,bottas,77,8,4,Finished
+2023,1,gasly,10,9,2,Finished
+2023,1,albon,23,10,1,Finished
+2023,1,tsunoda,22,11,0,Finished
+2023,1,sargeant,2,12,0,+1 Lap
+2023,1,kevin_magnussen,20,13,0,+1 Lap
+2023,1,de_vries,21,14,0,+1 Lap
+2023,1,hulkenberg,27,15,0,+1 Lap
+2023,1,zhou,24,16,0,+1 Lap
+2023,1,norris,4,17,0,+2 Laps
+2023,1,ocon,31,18,0,Mechanical
+2023,1,leclerc,16,19,0,Engine
+2023,1,piastri,81,20,0,Electrical
+2023,2,perez,11,1,25,Finished
+2023,2,max_verstappen,1,2,19,Finished
+2023,2,alonso,14,3,15,Finished
+2023,2,russell,63,4,12,Finished
+2023,2,hamilton,44,5,10,Finished
+2023,2,sainz,55,6,8,Finished
+2023,2,leclerc,16,7,6,Finished
+2023,2,ocon,31,8,4,Finished
+2023,2,gasly,10,9,2,Finished
+2023,2,kevin_magnussen,20,10,1,Finished
+2023,2,tsunoda,22,11,0,Finished
+2023,2,hulkenberg,27,12,0,Finished
+2023,2,zhou,24,13,0,Finished
+2023,2,de_vries,21,14,0,Finished
+2023,2,piastri,81,15,0,Finished
+2023,2,sargeant,2,16,0,Finished
+2023,2,norris,4,17,0,Finished
+2023,2,bottas,77,18,0,+1 Lap
+2023,2,albon,23,19,0,Brakes
+2023,2,stroll,18,20,0,Engine
+2023,3,max_verstappen,1,1,25,Finished
+2023,3,hamilton,44,2,18,Finished
+2023,3,alonso,14,3,15,Finished
+2023,3,stroll,18,4,12,Finished
+2023,3,perez,11,5,11,Finished
+2023,3,norris,4,6,8,Finished
+2023,3,hulkenberg,27,7,6,Finished
+2023,3,piastri,81,8,4,Finished
+2023,3,zhou,24,9,2,Finished
+2023,3,tsunoda,22,10,1,Finished
+2023,3,bottas,77,11,0,Finished
+2023,3,sainz,55,12,0,Finished
+2023,3,gasly,10,13,0,Collision
+2023,3,ocon,31,14,0,Collision
+2023,3,de_vries,21,15,0,Collision
+2023,3,sargeant,2,16,0,Collision
+2023,3,kevin_magnussen,20,17,0,Accident
+2023,3,russell,63,18,0,Engine
+2023,3,albon,23,19,0,Accident
+2023,3,leclerc,16,20,0,Collision
+2023,4,perez,11,1,25,Finished
+2023,4,max_verstappen,1,2,18,Finished
+2023,4,leclerc,16,3,15,Finished
+2023,4,alonso,14,4,12,Finished
+2023,4,sainz,55,5,10,Finished
+2023,4,hamilton,44,6,8,Finished
+2023,4,stroll,18,7,6,Finished
+2023,4,russell,63,8,5,Finished
+2023,4,norris,4,9,2,Finished
+2023,4,tsunoda,22,10,1,Finished
+2023,4,piastri,81,11,0,Finished
+2023,4,albon,23,12,0,Finished
+2023,4,kevin_magnussen,20,13,0,Finished
+2023,4,gasly,10,14,0,Finished
+2023,4,ocon,31,15,0,Finished
+2023,4,sargeant,2,16,0,Finished
+2023,4,hulkenberg,27,17,0,+1 Lap
+2023,4,bottas,77,18,0,+1 Lap
+2023,4,zhou,24,19,0,Overheating
+2023,4,de_vries,21,20,0,Accident
+2023,5,max_verstappen,1,1,26,Finished
+2023,5,perez,11,2,18,Finished
+2023,5,alonso,14,3,15,Finished
+2023,5,russell,63,4,12,Finished
+2023,5,sainz,55,5,10,Finished
+2023,5,hamilton,44,6,8,Finished
+2023,5,leclerc,16,7,6,Finished
+2023,5,gasly,10,8,4,Finished
+2023,5,ocon,31,9,2,Finished
+2023,5,kevin_magnussen,20,10,1,Finished
+2023,5,tsunoda,22,11,0,Finished
+2023,5,stroll,18,12,0,Finished
+2023,5,bottas,77,13,0,Finished
+2023,5,albon,23,14,0,Finished
+2023,5,hulkenberg,27,15,0,Finished
+2023,5,zhou,24,16,0,Finished
+2023,5,norris,4,17,0,Finished
+2023,5,de_vries,21,18,0,Finished
+2023,5,piastri,81,19,0,+1 Lap
+2023,5,sargeant,2,20,0,+1 Lap
+2023,6,max_verstappen,1,1,25,Finished
+2023,6,alonso,14,2,18,Finished
+2023,6,ocon,31,3,15,Finished
+2023,6,hamilton,44,4,13,Finished
+2023,6,russell,63,5,10,Finished
+2023,6,leclerc,16,6,8,Finished
+2023,6,gasly,10,7,6,Finished
+2023,6,sainz,55,8,4,Finished
+2023,6,norris,4,9,2,+1 Lap
+2023,6,piastri,81,10,1,+1 Lap
+2023,6,bottas,77,11,0,+1 Lap
+2023,6,de_vries,21,12,0,+1 Lap
+2023,6,zhou,24,13,0,+1 Lap
+2023,6,albon,23,14,0,+1 Lap
+2023,6,tsunoda,22,15,0,+2 Laps
+2023,6,perez,11,16,0,+2 Laps
+2023,6,hulkenberg,27,17,0,+2 Laps
+2023,6,sargeant,2,18,0,+2 Laps
+2023,6,kevin_magnussen,20,19,0,Collision damage
+2023,6,stroll,18,20,0,Accident
+2023,7,max_verstappen,1,1,26,Finished
+2023,7,hamilton,44,2,18,Finished
+2023,7,russell,63,3,15,Finished
+2023,7,perez,11,4,12,Finished
+2023,7,sainz,55,5,10,Finished
+2023,7,stroll,18,6,8,Finished
+2023,7,alonso,14,7,6,Finished
+2023,7,ocon,31,8,4,Finished
+2023,7,zhou,24,9,2,Finished
+2023,7,gasly,10,10,1,Finished
+2023,7,leclerc,16,11,0,Finished
+2023,7,tsunoda,22,12,0,Finished
+2023,7,piastri,81,13,0,+1 Lap
+2023,7,de_vries,21,14,0,+1 Lap
+2023,7,hulkenberg,27,15,0,+1 Lap
+2023,7,albon,23,16,0,+1 Lap
+2023,7,norris,4,17,0,+1 Lap
+2023,7,kevin_magnussen,20,18,0,+1 Lap
+2023,7,bottas,77,19,0,+1 Lap
+2023,7,sargeant,2,20,0,+1 Lap
+2023,8,max_verstappen,1,1,25,Finished
+2023,8,alonso,14,2,18,Finished
+2023,8,hamilton,44,3,15,Finished
+2023,8,leclerc,16,4,12,Finished
+2023,8,sainz,55,5,10,Finished
+2023,8,perez,11,6,9,Finished
+2023,8,albon,23,7,6,Finished
+2023,8,ocon,31,8,4,Finished
+2023,8,stroll,18,9,2,Finished
+2023,8,bottas,77,10,1,Finished
+2023,8,piastri,81,11,0,Finished
+2023,8,gasly,10,12,0,Finished
+2023,8,norris,4,13,0,Finished
+2023,8,tsunoda,22,14,0,Finished
+2023,8,hulkenberg,27,15,0,+1 Lap
+2023,8,zhou,24,16,0,+1 Lap
+2023,8,kevin_magnussen,20,17,0,+1 Lap
+2023,8,de_vries,21,18,0,+1 Lap
+2023,8,russell,63,19,0,Brakes
+2023,8,sargeant,2,20,0,Engine
+2023,9,max_verstappen,1,1,26,Finished
+2023,9,leclerc,16,2,18,Finished
+2023,9,perez,11,3,15,Finished
+2023,9,norris,4,4,12,Finished
+2023,9,alonso,14,5,10,Finished
+2023,9,sainz,55,6,8,Finished
+2023,9,russell,63,7,6,Finished
+2023,9,hamilton,44,8,4,Finished
+2023,9,stroll,18,9,2,Finished
+2023,9,gasly,10,10,1,Finished
+2023,9,albon,23,11,0,Finished
+2023,9,zhou,24,12,0,+1 Lap
+2023,9,sargeant,2,13,0,+1 Lap
+2023,9,ocon,31,14,0,+1 Lap
+2023,9,bottas,77,15,0,+1 Lap
+2023,9,piastri,81,16,0,+1 Lap
+2023,9,de_vries,21,17,0,+1 Lap
+2023,9,kevin_magnussen,20,18,0,+1 Lap
+2023,9,tsunoda,22,19,0,+1 Lap
+2023,9,hulkenberg,27,20,0,Power loss
+2023,10,max_verstappen,1,1,26,Finished
+2023,10,norris,4,2,18,Finished
+2023,10,hamilton,44,3,15,Finished
+2023,10,piastri,81,4,12,Finished
+2023,10,russell,63,5,10,Finished
+2023,10,perez,11,6,8,Finished
+2023,10,alonso,14,7,6,Finished
+2023,10,albon,23,8,4,Finished
+2023,10,leclerc,16,9,2,Finished
+2023,10,sainz,55,10,1,Finished
+2023,10,sargeant,2,11,0,Finished
+2023,10,bottas,77,12,0,Finished
+2023,10,hulkenberg,27,13,0,Finished
+2023,10,stroll,18,14,0,Finished
+2023,10,zhou,24,15,0,Finished
+2023,10,tsunoda,22,16,0,Finished
+2023,10,de_vries,21,17,0,Finished
+2023,10,gasly,10,18,0,Collision damage
+2023,10,kevin_magnussen,20,19,0,Engine
+2023,10,ocon,31,20,0,Oil leak
+2023,11,max_verstappen,1,1,26,Finished
+2023,11,norris,4,2,18,Finished
+2023,11,perez,11,3,15,Finished
+2023,11,hamilton,44,4,12,Finished
+2023,11,piastri,81,5,10,Finished
+2023,11,russell,63,6,8,Finished
+2023,11,leclerc,16,7,6,Finished
+2023,11,sainz,55,8,4,Finished
+2023,11,alonso,14,9,2,Finished
+2023,11,stroll,18,10,1,+1 Lap
+2023,11,albon,23,11,0,+1 Lap
+2023,11,bottas,77,12,0,+1 Lap
+2023,11,ricciardo,3,13,0,+1 Lap
+2023,11,hulkenberg,27,14,0,+1 Lap
+2023,11,tsunoda,22,15,0,+1 Lap
+2023,11,zhou,24,16,0,+1 Lap
+2023,11,kevin_magnussen,20,17,0,+1 Lap
+2023,11,sargeant,2,18,0,Retired
+2023,11,ocon,31,19,0,Collision damage
+2023,11,gasly,10,20,0,Collision damage
+2023,12,max_verstappen,1,1,25,Finished
+2023,12,perez,11,2,18,Finished
+2023,12,leclerc,16,3,15,Finished
+2023,12,hamilton,44,4,13,Finished
+2023,12,alonso,14,5,10,Finished
+2023,12,russell,63,6,8,Finished
+2023,12,norris,4,7,6,Finished
+2023,12,ocon,31,8,4,Finished
+2023,12,stroll,18,9,2,Finished
+2023,12,tsunoda,22,10,1,Finished
+2023,12,gasly,10,11,0,Finished
+2023,12,bottas,77,12,0,Finished
+2023,12,zhou,24,13,0,Finished
+2023,12,albon,23,14,0,Finished
+2023,12,kevin_magnussen,20,15,0,Finished
+2023,12,ricciardo,3,16,0,Finished
+2023,12,sargeant,2,17,0,Finished
+2023,12,hulkenberg,27,18,0,Finished
+2023,12,sainz,55,19,0,Collision damage
+2023,12,piastri,81,20,0,Collision damage
+2023,13,max_verstappen,1,1,25,Finished
+2023,13,alonso,14,2,19,Finished
+2023,13,gasly,10,3,15,Finished
+2023,13,perez,11,4,12,Finished
+2023,13,sainz,55,5,10,Finished
+2023,13,hamilton,44,6,8,Finished
+2023,13,norris,4,7,6,Finished
+2023,13,albon,23,8,4,Finished
+2023,13,piastri,81,9,2,Finished
+2023,13,ocon,31,10,1,Finished
+2023,13,stroll,18,11,0,Finished
+2023,13,hulkenberg,27,12,0,Finished
+2023,13,lawson,40,13,0,Finished
+2023,13,bottas,77,14,0,Finished
+2023,13,tsunoda,22,15,0,Finished
+2023,13,kevin_magnussen,20,16,0,Finished
+2023,13,russell,63,17,0,Finished
+2023,13,zhou,24,18,0,Accident
+2023,13,leclerc,16,19,0,Undertray
+2023,13,sargeant,2,20,0,Accident
+2023,14,max_verstappen,1,1,25,Finished
+2023,14,perez,11,2,18,Finished
+2023,14,sainz,55,3,15,Finished
+2023,14,leclerc,16,4,12,Finished
+2023,14,russell,63,5,10,Finished
+2023,14,hamilton,44,6,8,Finished
+2023,14,albon,23,7,6,Finished
+2023,14,norris,4,8,4,Finished
+2023,14,alonso,14,9,2,Finished
+2023,14,bottas,77,10,1,Finished
+2023,14,lawson,40,11,0,Finished
+2023,14,piastri,81,12,0,Finished
+2023,14,sargeant,2,13,0,Finished
+2023,14,zhou,24,14,0,Finished
+2023,14,gasly,10,15,0,Finished
+2023,14,stroll,18,16,0,Finished
+2023,14,hulkenberg,27,17,0,+1 Lap
+2023,14,kevin_magnussen,20,18,0,+1 Lap
+2023,14,ocon,31,19,0,Steering
+2023,14,tsunoda,22,20,0,Engine
+2023,15,sainz,55,1,25,Finished
+2023,15,norris,4,2,18,Finished
+2023,15,hamilton,44,3,16,Finished
+2023,15,leclerc,16,4,12,Finished
+2023,15,max_verstappen,1,5,10,Finished
+2023,15,gasly,10,6,8,Finished
+2023,15,piastri,81,7,6,Finished
+2023,15,perez,11,8,4,Finished
+2023,15,lawson,40,9,2,Finished
+2023,15,kevin_magnussen,20,10,1,Finished
+2023,15,albon,23,11,0,Finished
+2023,15,zhou,24,12,0,Finished
+2023,15,hulkenberg,27,13,0,Finished
+2023,15,sargeant,2,14,0,Finished
+2023,15,alonso,14,15,0,Finished
+2023,15,russell,63,16,0,Accident
+2023,15,bottas,77,17,0,Technical
+2023,15,ocon,31,18,0,Gearbox
+2023,15,tsunoda,22,19,0,Collision
+2023,15,stroll,18,20,0,Withdrew
+2023,16,max_verstappen,1,1,26,Finished
+2023,16,norris,4,2,18,Finished
+2023,16,piastri,81,3,15,Finished
+2023,16,leclerc,16,4,12,Finished
+2023,16,hamilton,44,5,10,Finished
+2023,16,sainz,55,6,8,Finished
+2023,16,russell,63,7,6,Finished
+2023,16,alonso,14,8,4,Finished
+2023,16,ocon,31,9,2,Finished
+2023,16,gasly,10,10,1,Finished
+2023,16,lawson,40,11,0,+1 Lap
+2023,16,tsunoda,22,12,0,+1 Lap
+2023,16,zhou,24,13,0,+1 Lap
+2023,16,hulkenberg,27,14,0,+1 Lap
+2023,16,kevin_magnussen,20,15,0,+1 Lap
+2023,16,albon,23,16,0,Collision damage
+2023,16,sargeant,2,17,0,Collision damage
+2023,16,stroll,18,18,0,Rear wing
+2023,16,perez,11,19,0,Collision damage
+2023,16,bottas,77,20,0,Collision damage
+2023,17,max_verstappen,1,1,26,Finished
+2023,17,piastri,81,2,18,Finished
+2023,17,norris,4,3,15,Finished
+2023,17,russell,63,4,12,Finished
+2023,17,leclerc,16,5,10,Finished
+2023,17,alonso,14,6,8,Finished
+2023,17,ocon,31,7,6,Finished
+2023,17,bottas,77,8,4,Finished
+2023,17,zhou,24,9,2,Finished
+2023,17,perez,11,10,1,Finished
+2023,17,stroll,18,11,0,Finished
+2023,17,gasly,10,12,0,Finished
+2023,17,albon,23,13,0,Finished
+2023,17,kevin_magnussen,20,14,0,+1 Lap
+2023,17,tsunoda,22,15,0,+1 Lap
+2023,17,hulkenberg,27,16,0,+1 Lap
+2023,17,lawson,40,17,0,+1 Lap
+2023,17,sargeant,2,18,0,Illness
+2023,17,hamilton,44,19,0,Collision
+2023,17,sainz,55,20,0,Fuel leak
+2023,18,max_verstappen,1,1,25,Finished
+2023,18,norris,4,2,18,Finished
+2023,18,sainz,55,3,15,Finished
+2023,18,perez,11,4,12,Finished
+2023,18,russell,63,5,10,Finished
+2023,18,gasly,10,6,8,Finished
+2023,18,stroll,18,7,6,Finished
+2023,18,tsunoda,22,8,5,Finished
+2023,18,albon,23,9,2,Finished
+2023,18,sargeant,2,10,1,Finished
+2023,18,hulkenberg,27,11,0,Finished
+2023,18,bottas,77,12,0,Finished
+2023,18,zhou,24,13,0,+1 Lap
+2023,18,kevin_magnussen,20,14,0,+1 Lap
+2023,18,ricciardo,3,15,0,+1 Lap
+2023,18,alonso,14,16,0,Undertray
+2023,18,piastri,81,17,0,Radiator
+2023,18,ocon,31,18,0,Collision damage
+2023,18,hamilton,44,19,0,Disqualified
+2023,18,leclerc,16,20,0,Disqualified
+2023,19,max_verstappen,1,1,25,Finished
+2023,19,hamilton,44,2,19,Finished
+2023,19,leclerc,16,3,15,Finished
+2023,19,sainz,55,4,12,Finished
+2023,19,norris,4,5,10,Finished
+2023,19,russell,63,6,8,Finished
+2023,19,ricciardo,3,7,6,Finished
+2023,19,piastri,81,8,4,Finished
+2023,19,albon,23,9,2,Finished
+2023,19,ocon,31,10,1,Finished
+2023,19,gasly,10,11,0,Finished
+2023,19,tsunoda,22,12,0,Finished
+2023,19,hulkenberg,27,13,0,Finished
+2023,19,zhou,24,14,0,Finished
+2023,19,bottas,77,15,0,Finished
+2023,19,sargeant,2,16,0,Retired
+2023,19,stroll,18,17,0,Collision damage
+2023,19,alonso,14,18,0,Withdrew
+2023,19,kevin_magnussen,20,19,0,Accident
+2023,19,perez,11,20,0,Collision damage
+2023,20,max_verstappen,1,1,25,Finished
+2023,20,norris,4,2,19,Finished
+2023,20,alonso,14,3,15,Finished
+2023,20,perez,11,4,12,Finished
+2023,20,stroll,18,5,10,Finished
+2023,20,sainz,55,6,8,Finished
+2023,20,gasly,10,7,6,Finished
+2023,20,hamilton,44,8,4,Finished
+2023,20,tsunoda,22,9,2,Finished
+2023,20,ocon,31,10,1,+1 Lap
+2023,20,sargeant,2,11,0,+1 Lap
+2023,20,hulkenberg,27,12,0,+1 Lap
+2023,20,ricciardo,3,13,0,+1 Lap
+2023,20,piastri,81,14,0,+2 Laps
+2023,20,russell,63,15,0,Overheating
+2023,20,bottas,77,16,0,Engine
+2023,20,zhou,24,17,0,Engine
+2023,20,kevin_magnussen,20,18,0,Collision
+2023,20,albon,23,19,0,Collision
+2023,20,leclerc,16,20,0,Engine
+2023,21,max_verstappen,1,1,25,Finished
+2023,21,leclerc,16,2,18,Finished
+2023,21,perez,11,3,15,Finished
+2023,21,ocon,31,4,12,Finished
+2023,21,stroll,18,5,10,Finished
+2023,21,sainz,55,6,8,Finished
+2023,21,hamilton,44,7,6,Finished
+2023,21,russell,63,8,4,Finished
+2023,21,alonso,14,9,2,Finished
+2023,21,piastri,81,10,2,Finished
+2023,21,gasly,10,11,0,Finished
+2023,21,albon,23,12,0,Finished
+2023,21,kevin_magnussen,20,13,0,Finished
+2023,21,ricciardo,3,14,0,Finished
+2023,21,zhou,24,15,0,Finished
+2023,21,sargeant,2,16,0,Finished
+2023,21,bottas,77,17,0,Finished
+2023,21,tsunoda,22,18,0,Gearbox
+2023,21,hulkenberg,27,19,0,Engine
+2023,21,norris,4,20,0,Accident
+2023,22,max_verstappen,1,1,26,Finished
+2023,22,leclerc,16,2,18,Finished
+2023,22,russell,63,3,15,Finished
+2023,22,perez,11,4,12,Finished
+2023,22,norris,4,5,10,Finished
+2023,22,piastri,81,6,8,Finished
+2023,22,alonso,14,7,6,Finished
+2023,22,tsunoda,22,8,4,Finished
+2023,22,hamilton,44,9,2,Finished
+2023,22,stroll,18,10,1,Finished
+2023,22,ricciardo,3,11,0,Finished
+2023,22,ocon,31,12,0,Finished
+2023,22,gasly,10,13,0,Finished
+2023,22,albon,23,14,0,Finished
+2023,22,hulkenberg,27,15,0,Finished
+2023,22,sargeant,2,16,0,Finished
+2023,22,zhou,24,17,0,Finished
+2023,22,sainz,55,18,0,Retired
+2023,22,bottas,77,19,0,+1 Lap
+2023,22,kevin_magnussen,20,20,0,+1 Lap
+2024,1,max_verstappen,1,1,26,Finished
+2024,1,perez,11,2,18,Finished
+2024,1,sainz,55,3,15,Finished
+2024,1,leclerc,16,4,12,Finished
+2024,1,russell,63,5,10,Finished
+2024,1,norris,4,6,8,Finished
+2024,1,hamilton,44,7,6,Finished
+2024,1,piastri,81,8,4,Finished
+2024,1,alonso,14,9,2,Finished
+2024,1,stroll,18,10,1,Finished
+2024,1,zhou,24,11,0,+1 Lap
+2024,1,kevin_magnussen,20,12,0,+1 Lap
+2024,1,ricciardo,3,13,0,+1 Lap
+2024,1,tsunoda,22,14,0,+1 Lap
+2024,1,albon,23,15,0,+1 Lap
+2024,1,hulkenberg,27,16,0,+1 Lap
+2024,1,ocon,31,17,0,+1 Lap
+2024,1,gasly,10,18,0,+1 Lap
+2024,1,bottas,77,19,0,+1 Lap
+2024,1,sargeant,2,20,0,+2 Laps
+2024,2,max_verstappen,1,1,25,Finished
+2024,2,perez,11,2,18,Finished
+2024,2,leclerc,16,3,16,Finished
+2024,2,piastri,81,4,12,Finished
+2024,2,alonso,14,5,10,Finished
+2024,2,russell,63,6,8,Finished
+2024,2,bearman,38,7,6,Finished
+2024,2,norris,4,8,4,Finished
+2024,2,hamilton,44,9,2,Finished
+2024,2,hulkenberg,27,10,1,Finished
+2024,2,albon,23,11,0,Finished
+2024,2,kevin_magnussen,20,12,0,Finished
+2024,2,ocon,31,13,0,+1 Lap
+2024,2,sargeant,2,14,0,+1 Lap
+2024,2,tsunoda,22,15,0,+1 Lap
+2024,2,ricciardo,3,16,0,+1 Lap
+2024,2,bottas,77,17,0,+1 Lap
+2024,2,zhou,24,18,0,+1 Lap
+2024,2,stroll,18,19,0,Accident
+2024,2,gasly,10,20,0,Gearbox
+2024,3,sainz,55,1,25,Finished
+2024,3,leclerc,16,2,19,Finished
+2024,3,norris,4,3,15,Finished
+2024,3,piastri,81,4,12,Finished
+2024,3,perez,11,5,10,Finished
+2024,3,stroll,18,6,8,Finished
+2024,3,tsunoda,22,7,6,Finished
+2024,3,alonso,14,8,4,Finished
+2024,3,hulkenberg,27,9,2,Finished
+2024,3,kevin_magnussen,20,10,1,+1 Lap
+2024,3,albon,23,11,0,+1 Lap
+2024,3,ricciardo,3,12,0,+1 Lap
+2024,3,gasly,10,13,0,+1 Lap
+2024,3,bottas,77,14,0,+1 Lap
+2024,3,zhou,24,15,0,+1 Lap
+2024,3,ocon,31,16,0,+1 Lap
+2024,3,russell,63,17,0,Accident
+2024,3,hamilton,44,18,0,Engine
+2024,3,max_verstappen,1,19,0,Brakes
+2024,4,max_verstappen,1,1,26,Finished
+2024,4,perez,11,2,18,Finished
+2024,4,sainz,55,3,15,Finished
+2024,4,leclerc,16,4,12,Finished
+2024,4,norris,4,5,10,Finished
+2024,4,alonso,14,6,8,Finished
+2024,4,russell,63,7,6,Finished
+2024,4,piastri,81,8,4,Finished
+2024,4,hamilton,44,9,2,Finished
+2024,4,tsunoda,22,10,1,+1 Lap
+2024,4,hulkenberg,27,11,0,+1 Lap
+2024,4,stroll,18,12,0,+1 Lap
+2024,4,kevin_magnussen,20,13,0,+1 Lap
+2024,4,bottas,77,14,0,+1 Lap
+2024,4,ocon,31,15,0,+1 Lap
+2024,4,gasly,10,16,0,+1 Lap
+2024,4,sargeant,2,17,0,+1 Lap
+2024,4,zhou,24,18,0,Gearbox
+2024,4,ricciardo,3,19,0,Accident
+2024,4,albon,23,20,0,Accident
+2024,5,max_verstappen,1,1,25,Finished
+2024,5,norris,4,2,18,Finished
+2024,5,perez,11,3,15,Finished
+2024,5,leclerc,16,4,12,Finished
+2024,5,sainz,55,5,10,Finished
+2024,5,russell,63,6,8,Finished
+2024,5,alonso,14,7,7,Finished
+2024,5,piastri,81,8,4,Finished
+2024,5,hamilton,44,9,2,Finished
+2024,5,hulkenberg,27,10,1,Finished
+2024,5,ocon,31,11,0,Finished
+2024,5,albon,23,12,0,Finished
+2024,5,gasly,10,13,0,Finished
+2024,5,zhou,24,14,0,Finished
+2024,5,stroll,18,15,0,Finished
+2024,5,kevin_magnussen,20,16,0,Finished
+2024,5,sargeant,2,17,0,Finished
+2024,5,ricciardo,3,18,0,Retired
+2024,5,tsunoda,22,19,0,Retired
+2024,5,bottas,77,20,0,Retired
+2024,6,norris,4,1,25,Finished
+2024,6,max_verstappen,1,2,18,Finished
+2024,6,leclerc,16,3,15,Finished
+2024,6,perez,11,4,12,Finished
+2024,6,sainz,55,5,10,Finished
+2024,6,hamilton,44,6,8,Finished
+2024,6,tsunoda,22,7,6,Finished
+2024,6,russell,63,8,4,Finished
+2024,6,alonso,14,9,2,Finished
+2024,6,ocon,31,10,1,Finished
+2024,6,hulkenberg,27,11,0,Finished
+2024,6,gasly,10,12,0,Finished
+2024,6,piastri,81,13,0,Finished
+2024,6,zhou,24,14,0,Finished
+2024,6,ricciardo,3,15,0,Finished
+2024,6,bottas,77,16,0,Finished
+2024,6,stroll,18,17,0,Finished
+2024,6,albon,23,18,0,Finished
+2024,6,kevin_magnussen,20,19,0,Finished
+2024,6,sargeant,2,20,0,Collision
+2024,7,max_verstappen,1,1,25,Finished
+2024,7,norris,4,2,18,Finished
+2024,7,leclerc,16,3,15,Finished
+2024,7,piastri,81,4,12,Finished
+2024,7,sainz,55,5,10,Finished
+2024,7,hamilton,44,6,8,Finished
+2024,7,russell,63,7,7,Finished
+2024,7,perez,11,8,4,Finished
+2024,7,stroll,18,9,2,Finished
+2024,7,tsunoda,22,10,1,+1 Lap
+2024,7,hulkenberg,27,11,0,+1 Lap
+2024,7,kevin_magnussen,20,12,0,+1 Lap
+2024,7,ricciardo,3,13,0,+1 Lap
+2024,7,ocon,31,14,0,+1 Lap
+2024,7,zhou,24,15,0,+1 Lap
+2024,7,gasly,10,16,0,+1 Lap
+2024,7,sargeant,2,17,0,+1 Lap
+2024,7,bottas,77,18,0,+1 Lap
+2024,7,alonso,14,19,0,+1 Lap
+2024,7,albon,23,20,0,Retired
+2024,8,leclerc,16,1,25,Finished
+2024,8,piastri,81,2,18,Finished
+2024,8,sainz,55,3,15,Finished
+2024,8,norris,4,4,12,Finished
+2024,8,russell,63,5,10,Finished
+2024,8,max_verstappen,1,6,8,Finished
+2024,8,hamilton,44,7,7,Finished
+2024,8,tsunoda,22,8,4,+1 Lap
+2024,8,albon,23,9,2,+1 Lap
+2024,8,gasly,10,10,1,+1 Lap
+2024,8,alonso,14,11,0,+2 Laps
+2024,8,ricciardo,3,12,0,+2 Laps
+2024,8,bottas,77,13,0,+2 Laps
+2024,8,stroll,18,14,0,+2 Laps
+2024,8,sargeant,2,15,0,+2 Laps
+2024,8,zhou,24,16,0,+2 Laps
+2024,8,ocon,31,17,0,Collision
+2024,8,perez,11,18,0,Collision
+2024,8,hulkenberg,27,19,0,Collision
+2024,8,kevin_magnussen,20,20,0,Collision
+2024,9,max_verstappen,1,1,25,Finished
+2024,9,norris,4,2,18,Finished
+2024,9,russell,63,3,15,Finished
+2024,9,hamilton,44,4,13,Finished
+2024,9,piastri,81,5,10,Finished
+2024,9,alonso,14,6,8,Finished
+2024,9,stroll,18,7,6,Finished
+2024,9,ricciardo,3,8,4,Finished
+2024,9,gasly,10,9,2,Finished
+2024,9,ocon,31,10,1,Finished
+2024,9,hulkenberg,27,11,0,Finished
+2024,9,kevin_magnussen,20,12,0,Finished
+2024,9,bottas,77,13,0,Finished
+2024,9,tsunoda,22,14,0,Finished
+2024,9,zhou,24,15,0,+1 Lap
+2024,9,sainz,55,16,0,Collision
+2024,9,albon,23,17,0,Collision
+2024,9,perez,11,18,0,Accident
+2024,9,leclerc,16,19,0,Engine
+2024,9,sargeant,2,20,0,Accident
+2024,10,max_verstappen,1,1,25,Finished
+2024,10,norris,4,2,19,Finished
+2024,10,hamilton,44,3,15,Finished
+2024,10,russell,63,4,12,Finished
+2024,10,leclerc,16,5,10,Finished
+2024,10,sainz,55,6,8,Finished
+2024,10,piastri,81,7,6,Finished
+2024,10,perez,11,8,4,Finished
+2024,10,gasly,10,9,2,Finished
+2024,10,ocon,31,10,1,Finished
+2024,10,hulkenberg,27,11,0,Finished
+2024,10,alonso,14,12,0,+1 Lap
+2024,10,zhou,24,13,0,+1 Lap
+2024,10,stroll,18,14,0,+1 Lap
+2024,10,ricciardo,3,15,0,+1 Lap
+2024,10,bottas,77,16,0,+1 Lap
+2024,10,kevin_magnussen,20,17,0,+1 Lap
+2024,10,albon,23,18,0,+1 Lap
+2024,10,tsunoda,22,19,0,+1 Lap
+2024,10,sargeant,2,20,0,+2 Laps
+2024,11,russell,63,1,25,Finished
+2024,11,piastri,81,2,18,Finished
+2024,11,sainz,55,3,15,Finished
+2024,11,hamilton,44,4,12,Finished
+2024,11,max_verstappen,1,5,10,Finished
+2024,11,hulkenberg,27,6,8,Finished
+2024,11,perez,11,7,6,Finished
+2024,11,kevin_magnussen,20,8,4,Finished
+2024,11,ricciardo,3,9,2,Finished
+2024,11,gasly,10,10,1,Finished
+2024,11,leclerc,16,11,0,Finished
+2024,11,ocon,31,12,0,Finished
+2024,11,stroll,18,13,0,+1 Lap
+2024,11,tsunoda,22,14,0,+1 Lap
+2024,11,albon,23,15,0,+1 Lap
+2024,11,bottas,77,16,0,+1 Lap
+2024,11,zhou,24,17,0,+1 Lap
+2024,11,alonso,14,18,0,+1 Lap
+2024,11,sargeant,2,19,0,+2 Laps
+2024,11,norris,4,20,0,+7 Laps
+2024,12,hamilton,44,1,25,Finished
+2024,12,max_verstappen,1,2,18,Finished
+2024,12,norris,4,3,15,Finished
+2024,12,piastri,81,4,12,Finished
+2024,12,sainz,55,5,11,Finished
+2024,12,hulkenberg,27,6,8,Finished
+2024,12,stroll,18,7,6,Finished
+2024,12,alonso,14,8,4,Finished
+2024,12,albon,23,9,2,Finished
+2024,12,tsunoda,22,10,1,Finished
+2024,12,sargeant,2,11,0,Finished
+2024,12,kevin_magnussen,20,12,0,Finished
+2024,12,ricciardo,3,13,0,+1 Lap
+2024,12,leclerc,16,14,0,+1 Lap
+2024,12,bottas,77,15,0,+1 Lap
+2024,12,ocon,31,16,0,+2 Laps
+2024,12,perez,11,17,0,+2 Laps
+2024,12,zhou,24,18,0,+2 Laps
+2024,12,russell,63,19,0,Water pressure
+2024,12,gasly,10,20,0,Gearbox
+2024,13,piastri,81,1,25,Finished
+2024,13,norris,4,2,18,Finished
+2024,13,hamilton,44,3,15,Finished
+2024,13,leclerc,16,4,12,Finished
+2024,13,max_verstappen,1,5,10,Finished
+2024,13,sainz,55,6,8,Finished
+2024,13,perez,11,7,6,Finished
+2024,13,russell,63,8,5,Finished
+2024,13,tsunoda,22,9,2,Finished
+2024,13,stroll,18,10,1,Finished
+2024,13,alonso,14,11,0,Finished
+2024,13,ricciardo,3,12,0,+1 Lap
+2024,13,hulkenberg,27,13,0,+1 Lap
+2024,13,albon,23,14,0,+1 Lap
+2024,13,kevin_magnussen,20,15,0,+1 Lap
+2024,13,bottas,77,16,0,+1 Lap
+2024,13,sargeant,2,17,0,+1 Lap
+2024,13,ocon,31,18,0,+1 Lap
+2024,13,zhou,24,19,0,+1 Lap
+2024,13,gasly,10,20,0,Hydraulics
+2024,14,hamilton,44,1,25,Finished
+2024,14,piastri,81,2,18,Finished
+2024,14,leclerc,16,3,15,Finished
+2024,14,max_verstappen,1,4,12,Finished
+2024,14,norris,4,5,10,Finished
+2024,14,sainz,55,6,8,Finished
+2024,14,perez,11,7,7,Finished
+2024,14,alonso,14,8,4,Finished
+2024,14,ocon,31,9,2,Finished
+2024,14,ricciardo,3,10,1,Finished
+2024,14,stroll,18,11,0,Finished
+2024,14,albon,23,12,0,Finished
+2024,14,gasly,10,13,0,Finished
+2024,14,kevin_magnussen,20,14,0,Finished
+2024,14,bottas,77,15,0,Finished
+2024,14,tsunoda,22,16,0,Finished
+2024,14,sargeant,2,17,0,Finished
+2024,14,hulkenberg,27,18,0,Finished
+2024,14,zhou,24,19,0,Retired
+2024,14,russell,63,20,0,Disqualified
+2024,15,norris,4,1,26,Finished
+2024,15,max_verstappen,1,2,18,Finished
+2024,15,leclerc,16,3,15,Finished
+2024,15,piastri,81,4,12,Finished
+2024,15,sainz,55,5,10,Finished
+2024,15,perez,11,6,8,Finished
+2024,15,russell,63,7,6,Finished
+2024,15,hamilton,44,8,4,Finished
+2024,15,gasly,10,9,2,+1 Lap
+2024,15,alonso,14,10,1,+1 Lap
+2024,15,hulkenberg,27,11,0,+1 Lap
+2024,15,ricciardo,3,12,0,+1 Lap
+2024,15,stroll,18,13,0,+1 Lap
+2024,15,albon,23,14,0,+1 Lap
+2024,15,ocon,31,15,0,+1 Lap
+2024,15,sargeant,2,16,0,+1 Lap
+2024,15,tsunoda,22,17,0,+1 Lap
+2024,15,kevin_magnussen,20,18,0,+1 Lap
+2024,15,bottas,77,19,0,+2 Laps
+2024,15,zhou,24,20,0,+2 Laps
+2024,16,leclerc,16,1,25,Finished
+2024,16,piastri,81,2,18,Finished
+2024,16,norris,4,3,16,Finished
+2024,16,sainz,55,4,12,Finished
+2024,16,hamilton,44,5,10,Finished
+2024,16,max_verstappen,1,6,8,Finished
+2024,16,russell,63,7,6,Finished
+2024,16,perez,11,8,4,Finished
+2024,16,albon,23,9,2,Finished
+2024,16,kevin_magnussen,20,10,1,Finished
+2024,16,alonso,14,11,0,Finished
+2024,16,colapinto,43,12,0,Finished
+2024,16,ricciardo,3,13,0,Finished
+2024,16,ocon,31,14,0,+1 Lap
+2024,16,gasly,10,15,0,+1 Lap
+2024,16,bottas,77,16,0,+1 Lap
+2024,16,hulkenberg,27,17,0,+1 Lap
+2024,16,zhou,24,18,0,+1 Lap
+2024,16,stroll,18,19,0,+1 Lap
+2024,16,tsunoda,22,20,0,Overheating
+2024,17,piastri,81,1,25,Finished
+2024,17,leclerc,16,2,18,Finished
+2024,17,russell,63,3,15,Finished
+2024,17,norris,4,4,13,Finished
+2024,17,max_verstappen,1,5,10,Finished
+2024,17,alonso,14,6,8,Finished
+2024,17,albon,23,7,6,Finished
+2024,17,colapinto,43,8,4,Finished
+2024,17,hamilton,44,9,2,Finished
+2024,17,bearman,50,10,1,Finished
+2024,17,hulkenberg,27,11,0,Finished
+2024,17,gasly,10,12,0,Finished
+2024,17,ricciardo,3,13,0,Finished
+2024,17,zhou,24,14,0,Finished
+2024,17,ocon,31,15,0,+1 Lap
+2024,17,bottas,77,16,0,+1 Lap
+2024,17,perez,11,17,0,Retired
+2024,17,sainz,55,18,0,Retired
+2024,17,stroll,18,19,0,Retired
+2024,17,tsunoda,22,20,0,Retired
+2024,18,norris,4,1,25,Finished
+2024,18,max_verstappen,1,2,18,Finished
+2024,18,piastri,81,3,15,Finished
+2024,18,russell,63,4,12,Finished
+2024,18,leclerc,16,5,10,Finished
+2024,18,hamilton,44,6,8,Finished
+2024,18,sainz,55,7,6,Finished
+2024,18,alonso,14,8,4,+1 Lap
+2024,18,hulkenberg,27,9,2,+1 Lap
+2024,18,perez,11,10,1,+1 Lap
+2024,18,colapinto,43,11,0,+1 Lap
+2024,18,tsunoda,22,12,0,+1 Lap
+2024,18,ocon,31,13,0,+1 Lap
+2024,18,stroll,18,14,0,+1 Lap
+2024,18,zhou,24,15,0,+1 Lap
+2024,18,bottas,77,16,0,+1 Lap
+2024,18,gasly,10,17,0,+1 Lap
+2024,18,ricciardo,3,18,0,+1 Lap
+2024,18,kevin_magnussen,20,19,0,Accident
+2024,18,albon,23,20,0,Power Unit
+2024,19,leclerc,16,1,25,Finished
+2024,19,sainz,55,2,18,Finished
+2024,19,max_verstappen,1,3,15,Finished
+2024,19,norris,4,4,12,Finished
+2024,19,piastri,81,5,10,Finished
+2024,19,russell,63,6,8,Finished
+2024,19,perez,11,7,6,Finished
+2024,19,hulkenberg,27,8,4,Finished
+2024,19,lawson,30,9,2,Finished
+2024,19,colapinto,43,10,1,Finished
+2024,19,kevin_magnussen,20,11,0,Finished
+2024,19,gasly,10,12,0,Finished
+2024,19,alonso,14,13,0,+1 Lap
+2024,19,tsunoda,22,14,0,+1 Lap
+2024,19,stroll,18,15,0,+1 Lap
+2024,19,albon,23,16,0,+1 Lap
+2024,19,bottas,77,17,0,+1 Lap
+2024,19,ocon,31,18,0,+1 Lap
+2024,19,zhou,24,19,0,+1 Lap
+2024,19,hamilton,44,20,0,Spun off
+2024,20,sainz,55,1,25,Finished
+2024,20,norris,4,2,18,Finished
+2024,20,leclerc,16,3,16,Finished
+2024,20,hamilton,44,4,12,Finished
+2024,20,russell,63,5,10,Finished
+2024,20,max_verstappen,1,6,8,Finished
+2024,20,kevin_magnussen,20,7,6,Finished
+2024,20,piastri,81,8,4,Finished
+2024,20,hulkenberg,27,9,2,+1 Lap
+2024,20,gasly,10,10,1,+1 Lap
+2024,20,stroll,18,11,0,+1 Lap
+2024,20,colapinto,43,12,0,+1 Lap
+2024,20,ocon,31,13,0,+1 Lap
+2024,20,bottas,77,14,0,+1 Lap
+2024,20,zhou,24,15,0,+1 Lap
+2024,20,lawson,30,16,0,+1 Lap
+2024,20,perez,11,17,0,+1 Lap
+2024,20,alonso,14,18,0,Brakes
+2024,20,albon,23,19,0,Collision
+2024,20,tsunoda,22,20,0,Collision
+2024,21,max_verstappen,1,1,26,Finished
+2024,21,ocon,31,2,18,Finished
+2024,21,gasly,10,3,15,Finished
+2024,21,russell,63,4,12,Finished
+2024,21,leclerc,16,5,10,Finished
+2024,21,norris,4,6,8,Finished
+2024,21,tsunoda,22,7,6,Finished
+2024,21,piastri,81,8,4,Finished
+2024,21,lawson,30,9,2,Finished
+2024,21,hamilton,44,10,1,Finished
+2024,21,perez,11,11,0,Finished
+2024,21,bearman,50,12,0,Finished
+2024,21,bottas,77,13,0,Finished
+2024,21,alonso,14,14,0,Finished
+2024,21,zhou,24,15,0,Finished
+2024,21,sainz,55,16,0,Accident
+2024,21,colapinto,43,17,0,Accident
+2024,21,albon,23,18,0,Withdrew
+2024,21,stroll,18,19,0,Withdrew
+2024,21,hulkenberg,27,20,0,Disqualified
+2024,22,russell,63,1,25,Finished
+2024,22,hamilton,44,2,18,Finished
+2024,22,sainz,55,3,15,Finished
+2024,22,leclerc,16,4,12,Finished
+2024,22,max_verstappen,1,5,10,Finished
+2024,22,norris,4,6,9,Finished
+2024,22,piastri,81,7,6,Finished
+2024,22,hulkenberg,27,8,4,Finished
+2024,22,tsunoda,22,9,2,Finished
+2024,22,perez,11,10,1,Finished
+2024,22,alonso,14,11,0,Finished
+2024,22,kevin_magnussen,20,12,0,Finished
+2024,22,zhou,24,13,0,Finished
+2024,22,colapinto,43,14,0,Finished
+2024,22,stroll,18,15,0,Finished
+2024,22,lawson,30,16,0,Finished
+2024,22,ocon,31,17,0,+1 Lap
+2024,22,bottas,77,18,0,+1 Lap
+2024,22,albon,23,19,0,Radiator
+2024,22,gasly,10,20,0,Engine

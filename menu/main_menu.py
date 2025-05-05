@@ -12,7 +12,9 @@ from utils.logger import setup_logger, update_logging_config
 from config import settings # Import the settings module
 from menu.menu_utils import load_driver_map
 from menu.simulation_menu import simulate_past_qualifying_menu
-from menu.data_menu import data_management_menu, train_model_menu_option
+# Import the data management and the NEW model training sub-menus
+from menu.data_menu import data_management_menu, model_training_menu 
+from prediction.race_predictor import predict_upcoming_race # Import the new race predictor function
 
 # Initial logger setup respects the setting from config file
 logger = setup_logger("MainMenu")
@@ -29,19 +31,20 @@ def display_main_menu(project_root):
         
         print("\n--- 📊 F1 Prediction System Main Menu ---")
         print("1. Predict Upcoming Qualifying (Not Implemented)")
-        print("2. Predict Upcoming Race (Not Implemented)")
+        print("2. Predict Upcoming Race")
         print("3. Simulate Past Qualifying")
         print("4. Data Management & Processing")
-        print("5. Train Model")
-        print(f"6. Toggle Logging (Currently: {current_logging_status})") # New Option 6
-        print("7. Exit") # Adjusted Option 7
+        print("5. Train Models") # Updated text slightly
+        print(f"6. Toggle Logging (Currently: {current_logging_status})")
+        print("7. Exit")
 
         choice = input("Select an option (1–7): ").strip()
 
         if choice == "1":
             predict_qualifying()
         elif choice == "2":
-            predict_race()
+            # Call the imported race prediction function
+            predict_upcoming_race()
         elif choice == "3":
             # Pass the loaded driver map and project root
             simulate_past_qualifying_menu(project_root, driver_map)
@@ -49,8 +52,8 @@ def display_main_menu(project_root):
             # Call the data management sub-menu
             data_management_menu(project_root)
         elif choice == "5":
-            # Call the train model option
-            train_model_menu_option(project_root)
+            # Call the NEW model training sub-menu
+            model_training_menu(project_root)
         elif choice == "6":
             # Toggle logging
             toggle_logging()
@@ -65,9 +68,7 @@ def predict_qualifying():
     logger.info("User selected: Predict Upcoming Qualifying")
     print("\n🔧 Predicting upcoming qualifying... (module not yet implemented)")
 
-def predict_race():
-    logger.info("User selected: Predict Upcoming Race")
-    print("\n🔧 Predicting upcoming race... (module not yet implemented)")
+# Removed the placeholder predict_race() function
 
 def toggle_logging():
     """Toggles the logging status and updates the config file."""

@@ -69,7 +69,7 @@ CATEGORICAL_FEATURES = [
 def engineer_pre_race_features(df):
     """Engineers features available before the race starts."""
     logger.info("Engineering pre-race features...")
-    df = df.sort_values(by=["race_weekend", "session_date", "driver_number"])
+    df = df.sort_values(by=["race_weekend", "date", "driver_number"])
 
     # --- 1. Get Qualifying Position --- 
     # Find the qualifying session for each race weekend

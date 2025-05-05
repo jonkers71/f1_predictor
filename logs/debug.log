@@ -1,1259 +1,356 @@
-2025-04-24 11:07:11,321 - INFO - Found 28 sessions in CSV.
-2025-04-24 11:07:11,322 - INFO - 
-Trying with 2 concurrent requests...
-2025-04-24 11:07:25,055 - INFO - ✅ Saved 400 lap entries for session 9683.
-2025-04-24 11:07:25,056 - INFO - ✅ Successfully processed session 9683.
-2025-04-24 11:07:26,885 - INFO - ✅ Saved 360 lap entries for session 9684.
-2025-04-24 11:07:26,886 - INFO - ✅ Successfully processed session 9684.
-2025-04-24 11:07:38,858 - INFO - ✅ Saved 383 lap entries for session 9686.
-2025-04-24 11:07:38,859 - INFO - ✅ Successfully processed session 9686.
-2025-04-24 11:07:39,126 - INFO - ✅ Saved 360 lap entries for session 9685.
-2025-04-24 11:07:39,127 - INFO - ✅ Successfully processed session 9685.
-2025-04-24 11:07:51,479 - INFO - ✅ Saved 380 lap entries for session 9687.
-2025-04-24 11:07:52,678 - INFO - ✅ Saved 338 lap entries for session 9688.
-2025-04-24 11:08:04,638 - INFO - ✅ Saved 296 lap entries for session 9689.
-2025-04-24 11:08:10,096 - INFO - Found 28 sessions in CSV.
-2025-04-24 11:08:10,097 - INFO - 
-Trying with 2 concurrent requests...
-2025-04-24 11:08:21,013 - INFO - Writing headers to CSV...
-2025-04-24 11:08:21,025 - INFO - ✅ Saved 360 lap entries for session 9684.
-2025-04-24 11:08:21,026 - INFO - ✅ Successfully processed session 9684.
-2025-04-24 11:08:22,587 - INFO - ✅ Saved 400 lap entries for session 9683.
-2025-04-24 11:08:22,588 - INFO - ✅ Successfully processed session 9683.
-2025-04-24 11:08:31,452 - INFO - ✅ Saved 360 lap entries for session 9685.
-2025-04-24 11:08:31,453 - INFO - ✅ Successfully processed session 9685.
-2025-04-24 11:08:33,636 - INFO - ✅ Saved 383 lap entries for session 9686.
-2025-04-24 11:08:33,636 - INFO - ✅ Successfully processed session 9686.
-2025-04-24 11:08:42,348 - INFO - ✅ Saved 380 lap entries for session 9687.
-2025-04-24 11:08:42,349 - INFO - ✅ Successfully processed session 9687.
-2025-04-24 11:08:43,476 - INFO - ✅ Saved 338 lap entries for session 9688.
-2025-04-24 11:08:43,477 - INFO - ✅ Successfully processed session 9688.
-2025-04-24 11:08:53,584 - INFO - ✅ Saved 296 lap entries for session 9689.
-2025-04-24 11:08:53,584 - INFO - ✅ Successfully processed session 9689.
-2025-04-24 11:08:54,189 - INFO - ✅ Saved 343 lap entries for session 9693.
-2025-04-24 11:08:54,190 - INFO - ✅ Successfully processed session 9693.
-2025-04-24 11:09:05,160 - INFO - ✅ Saved 396 lap entries for session 9988.
-2025-04-24 11:09:05,162 - INFO - ✅ Successfully processed session 9988.
-2025-04-24 11:09:08,729 - INFO - ✅ Saved 217 lap entries for session 9989.
-2025-04-24 11:09:08,729 - INFO - ✅ Successfully processed session 9989.
-2025-04-24 11:09:20,937 - INFO - ✅ Saved 380 lap entries for session 9993.
-2025-04-24 11:09:20,938 - INFO - ✅ Successfully processed session 9993.
-2025-04-24 11:09:23,698 - INFO - ✅ Saved 308 lap entries for session 9994.
-2025-04-24 11:09:23,699 - INFO - ✅ Successfully processed session 9994.
-2025-04-24 11:09:34,797 - INFO - ✅ Saved 384 lap entries for session 9998.
-2025-04-24 11:09:34,797 - INFO - ✅ Successfully processed session 9998.
-2025-04-24 11:09:37,919 - INFO - ✅ Saved 397 lap entries for session 9999.
-2025-04-24 11:09:37,920 - INFO - ✅ Successfully processed session 9999.
-2025-04-24 11:09:47,613 - INFO - ✅ Saved 202 lap entries for session 10000.
-2025-04-24 11:09:47,614 - INFO - ✅ Successfully processed session 10000.
-2025-04-24 11:09:51,749 - INFO - ✅ Saved 325 lap entries for session 10001.
-2025-04-24 11:09:51,750 - INFO - ✅ Successfully processed session 10001.
-2025-04-24 11:10:01,580 - INFO - ✅ Saved 286 lap entries for session 10002.
-2025-04-24 11:10:01,581 - INFO - ✅ Successfully processed session 10002.
-2025-04-24 11:10:05,436 - INFO - ✅ Saved 400 lap entries for session 10006.
-2025-04-24 11:10:05,437 - INFO - ✅ Successfully processed session 10006.
-2025-04-24 11:10:17,069 - INFO - ✅ Saved 381 lap entries for session 10007.
-2025-04-24 11:10:17,070 - INFO - ✅ Successfully processed session 10007.
-2025-04-24 11:10:20,938 - INFO - ✅ Saved 399 lap entries for session 10008.
-2025-04-24 11:10:20,938 - INFO - ✅ Successfully processed session 10008.
-2025-04-24 11:10:30,150 - INFO - ✅ Saved 309 lap entries for session 10009.
-2025-04-24 11:10:30,151 - INFO - ✅ Successfully processed session 10009.
-2025-04-24 11:10:34,186 - INFO - ✅ Saved 277 lap entries for session 10010.
-2025-04-24 11:10:34,187 - INFO - ✅ Successfully processed session 10010.
-2025-04-24 11:10:43,573 - INFO - ✅ Saved 400 lap entries for session 10014.
-2025-04-24 11:10:43,575 - INFO - ✅ Successfully processed session 10014.
-2025-04-24 11:10:47,698 - INFO - ✅ Saved 394 lap entries for session 10015.
-2025-04-24 11:10:47,699 - INFO - ✅ Successfully processed session 10015.
-2025-04-24 11:10:58,068 - INFO - ✅ Saved 363 lap entries for session 10016.
-2025-04-24 11:10:58,069 - INFO - ✅ Successfully processed session 10016.
-2025-04-24 11:11:01,690 - INFO - ✅ Saved 351 lap entries for session 10017.
-2025-04-24 11:11:01,690 - INFO - ✅ Successfully processed session 10017.
-2025-04-24 11:11:11,070 - INFO - ✅ Saved 281 lap entries for session 10018.
-2025-04-24 11:11:11,071 - INFO - ✅ Successfully processed session 10018.
-2025-04-24 11:11:18,488 - INFO - ✅ Saved 361 lap entries for session 10022.
-2025-04-24 11:11:18,489 - INFO - ✅ Successfully processed session 10022.
-2025-04-24 11:11:18,490 - INFO - ✅ All sessions processed successfully. Max concurrent requests increased to 3
-2025-04-24 11:11:52,685 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:11:52,693 - DatasetBuilder - INFO - 🧹 Cleaning and filtering data...
-2025-04-24 11:11:52,701 - DatasetBuilder - INFO - 🗑️ Removed 9136 laps with invalid durations.
-2025-04-24 11:14:16,035 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:14:16,054 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-24 11:14:16,054 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-24 11:14:16,323 - DatasetBuilder - INFO - ✅ Cleaned data saved to data/processed/cleaned_f1_data.csv
-2025-04-24 11:18:37,056 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:18:44,506 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:19:27,904 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:19:27,917 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-24 11:19:33,433 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:19:33,443 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-24 11:21:08,243 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:21:08,244 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
-2025-04-24 11:21:08,254 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
-2025-04-24 11:21:08,254 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-24 11:21:08,264 - DatasetBuilder - WARNING - ❌ 'session_type' column not found. Skipping filtering.
-2025-04-24 11:21:08,274 - DatasetBuilder - WARNING - ⚠️ Still missing values: 40441
-2025-04-24 11:21:08,274 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 36979
-2025-04-24 11:21:08,280 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-24 11:21:08,281 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-24 11:21:08,541 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
-2025-04-24 11:26:08,016 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-24 11:26:08,017 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
-2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
-2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
-2025-04-24 11:26:08,030 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-24 11:26:08,061 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
-2025-04-24 11:26:08,062 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
-2025-04-24 11:26:08,066 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-24 11:26:08,067 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-24 11:26:08,298 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
-2025-04-24 13:14:55,158 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:14:55,158 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:14:55,165 - XGBoostTrainer - INFO - Training XGBoost model...
-2025-04-24 13:14:55,267 - XGBoostTrainer - INFO - Predicting lap times on test data...
-2025-04-24 13:14:55,271 - XGBoostTrainer - INFO - RMSE (Root Mean Squared Error): 19.8678
-2025-04-24 13:14:55,271 - XGBoostTrainer - INFO - Starting GridSearchCV for hyperparameter tuning...
-2025-04-24 13:15:10,176 - XGBoostTrainer - INFO - Best parameters: {'colsample_bytree': 0.5, 'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 100}
-2025-04-24 13:15:10,181 - XGBoostTrainer - INFO - Best Model RMSE: 18.3402
-2025-04-24 13:15:10,181 - XGBoostTrainer - INFO - Saving best model to models/xgb_best_model.json...
-2025-04-24 13:15:10,190 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-04-24 13:15:10,544 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-04-24 13:15:10,608 - XGBoostTrainer - INFO - Making a prediction for a new lap...
-2025-04-24 13:15:10,612 - XGBoostTrainer - INFO - Predicted lap time: 115.1765
-2025-04-24 13:21:53,231 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:21:53,231 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:21:53,411 - XGBoostTrainer - INFO - Training XGBoost model...
-2025-04-24 13:35:10,574 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:35:16,640 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:36:18,402 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:36:26,755 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
-2025-04-24 13:36:26,755 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-04-24 13:41:50,522 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:41:50,522 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:41:50,702 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:42:56,947 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:42:56,948 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:42:57,022 - XGBoostTrainer - WARNING - Missing features: {'team_name', 'car_model'}, skipping them.
-2025-04-24 13:42:57,131 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:43:05,684 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
-2025-04-24 13:43:05,684 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-04-24 13:45:19,423 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:45:19,497 - XGBoostTrainer - WARNING - Missing features: {'car_model', 'team_name'}, skipping them.
-2025-04-24 13:45:19,532 - XGBoostTrainer - INFO - Splitting data into training and testing sets...
-2025-04-24 13:45:19,636 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:45:19,636 - XGBoostTrainer - INFO - Fitting the base model...
-2025-04-24 13:46:51,540 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-04-24 13:46:51,629 - XGBoostTrainer - WARNING - Feature 'car_model' not found in data and will be skipped.
-2025-04-24 13:46:51,629 - XGBoostTrainer - WARNING - Feature 'team_name' not found in data and will be skipped.
-2025-04-24 13:46:51,630 - XGBoostTrainer - WARNING - Missing features: {'team_name', 'car_model'}, skipping them.
-2025-04-24 13:46:51,705 - XGBoostTrainer - INFO - Splitting data into training and testing sets...
-2025-04-24 13:46:51,810 - XGBoostTrainer - INFO - Training base XGBoost model...
-2025-04-24 13:46:51,810 - XGBoostTrainer - INFO - Fitting the base model...
-2025-04-24 13:47:00,145 - XGBoostTrainer - INFO - Base Model RMSE: 2.6322
-2025-04-24 13:47:00,145 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-04-24 14:10:14,199 - Main - INFO - Starting F1 ML Project
-2025-04-24 14:10:29,275 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 14:10:29,398 - Main - ERROR - Unexpected error in main: 'race_name'
+2025-05-04 19:45:24,189 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_predictor
+2025-05-04 19:45:24,195 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_predictor/data/processed/driver_map.csv. 53 drivers found.
+2025-05-04 19:46:06,688 - Main - ERROR - Unexpected error in main: 
 Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+  File "/home/ubuntu/f1_predictor/main.py", line 21, in main
+    display_main_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/main_menu.py", line 39, in display_main_menu
+    choice = input("Select an option (1–7): ").strip()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError
+2025-05-04 19:49:11,573 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_predictor
+2025-05-04 19:49:11,577 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_predictor/data/processed/driver_map.csv. 53 drivers found.
+2025-05-04 19:49:51,854 - RacePredictor - INFO - --- Starting Upcoming Race Prediction ---
+2025-05-04 19:49:51,854 - RacePredictor - ERROR - Error loading prediction asset: [Errno 2] No such file or directory: '/home/ubuntu/f1_predictor/models/race_predictor/race_predictor_model.joblib'. Model or supporting files not found. Please train the race predictor model first.
+2025-05-04 19:50:03,569 - Main - ERROR - Unexpected error in main: 
+Traceback (most recent call last):
+  File "/home/ubuntu/f1_predictor/main.py", line 21, in main
+    display_main_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/main_menu.py", line 40, in display_main_menu
+    choice = input("Select an option (1–7): ").strip()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError
+2025-05-04 19:50:53,927 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_predictor
+2025-05-04 19:50:53,931 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_predictor/data/processed/driver_map.csv. 53 drivers found.
+2025-05-04 19:51:28,746 - DataMenu - INFO - User entered Model Training Menu
+2025-05-04 19:51:36,274 - DataMenu - INFO - Attempting to run script: /home/ubuntu/f1_predictor/model_training/race_predictor_trainer.py from /home/ubuntu/f1_predictor
+2025-05-04 19:51:37,617 - RacePredictorTrainer - INFO - Starting Race Predictor Training Pipeline...
+2025-05-04 19:51:37,618 - RacePredictorTrainer - INFO - Loading data from /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv
+2025-05-04 19:51:38,918 - RacePredictorTrainer - INFO - Loaded 135551 rows.
+2025-05-04 19:51:38,918 - RacePredictorTrainer - INFO - Engineering pre-race features...
+2025-05-04 19:51:39,128 - DataMenu - ERROR - Script model_training/race_predictor_trainer.py failed with return code 1
+2025-05-04 19:54:53,334 - Main - ERROR - Unexpected error in main: 
+Traceback (most recent call last):
+  File "/home/ubuntu/f1_predictor/main.py", line 21, in main
+    display_main_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/main_menu.py", line 56, in display_main_menu
+    model_training_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/data_menu.py", line 89, in model_training_menu
+    choice = input("Select an option (1-3): ").strip()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError
+2025-05-04 19:55:25,924 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_predictor
+2025-05-04 19:55:25,928 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_predictor/data/processed/driver_map.csv. 53 drivers found.
+2025-05-04 19:56:04,711 - DataMenu - INFO - User entered Model Training Menu
+2025-05-04 19:56:10,901 - DataMenu - INFO - Attempting to run script: /home/ubuntu/f1_predictor/model_training/race_predictor_trainer.py from /home/ubuntu/f1_predictor
+2025-05-04 19:56:12,097 - RacePredictorTrainer - INFO - Starting Race Predictor Training Pipeline...
+2025-05-04 19:56:12,097 - RacePredictorTrainer - INFO - Loading data from /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv
+2025-05-04 19:56:13,561 - RacePredictorTrainer - INFO - Loaded 135551 rows.
+2025-05-04 19:56:13,562 - RacePredictorTrainer - INFO - Engineering pre-race features...
+2025-05-04 19:56:13,695 - RacePredictorTrainer - INFO - Engineered 'quali_pos' feature.
+2025-05-04 19:56:13,817 - RacePredictorTrainer - INFO - Engineered 'avg_practice_lap_time' feature.
+2025-05-04 19:56:13,836 - RacePredictorTrainer - WARNING - Could not engineer 'sprint_pos'. Sprint race data or race_position missing.
+2025-05-04 19:56:13,843 - RacePredictorTrainer - INFO - Finished engineering pre-race features.
+2025-05-04 19:56:13,891 - RacePredictorTrainer - INFO - Filtered for race sessions. Rows remaining: 54178
+2025-05-04 19:56:14,170 - DataMenu - ERROR - Script model_training/race_predictor_trainer.py failed with return code 1
+2025-05-04 20:00:30,380 - Main - ERROR - Unexpected error in main: 
+Traceback (most recent call last):
+  File "/home/ubuntu/f1_predictor/main.py", line 21, in main
+    display_main_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/main_menu.py", line 56, in display_main_menu
+    model_training_menu(project_root)
+  File "/home/ubuntu/f1_predictor/menu/data_menu.py", line 89, in model_training_menu
+    choice = input("Select an option (1-3): ").strip()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOFError
+2025-05-04 20:02:43,356 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-04 20:02:43,356 - DatasetBuilder - INFO - Loading lap data from /home/ubuntu/f1_predictor/data/raw/lap_data.csv
+2025-05-04 20:02:44,200 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-04 20:02:44,200 - DatasetBuilder - INFO - Loading session data from /home/ubuntu/f1_predictor/data/raw/session_raw.csv
+2025-05-04 20:02:44,203 - DatasetBuilder - ERROR - Error loading session data: 'date_start'
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/indexes/base.py", line 3805, in get_loc
     return self._engine.get_loc(casted_key)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
   File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
   File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
   File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
+KeyError: 'date_start'
 
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 52, in simulate_past
-    available_races = session_data['race_name'].unique()
-                      ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+  File "/home/ubuntu/f1_predictor/data_pipeline/dataset_builder.py", line 444, in main
+    session_data["year"] = pd.to_datetime(session_data["date_start"], errors="coerce").dt.year
+                                          ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/frame.py", line 4102, in __getitem__
     indexer = self.columns.get_loc(key)
               ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/indexes/base.py", line 3812, in get_loc
     raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 17:56:37,284 - Main - INFO - Starting F1 ML Project
-2025-04-24 17:56:41,891 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 17:56:42,015 - Main - ERROR - Unexpected error in main: 'race_name'
+KeyError: 'date_start'
+2025-05-04 20:04:13,278 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-04 20:04:13,278 - DatasetBuilder - INFO - Loading lap data from /home/ubuntu/f1_predictor/data/raw/lap_data.csv
+2025-05-04 20:04:14,031 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-04 20:04:14,031 - DatasetBuilder - INFO - Loading session data from /home/ubuntu/f1_predictor/data/raw/session_raw.csv
+2025-05-04 20:04:14,034 - DatasetBuilder - WARNING - Using 'date' column to extract year as 'date_start' is missing.
+2025-05-04 20:04:14,039 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-04 20:04:14,039 - DatasetBuilder - INFO - Loading weather data from /home/ubuntu/f1_predictor/data/raw/weather_raw.csv
+2025-05-04 20:04:14,042 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-04 20:04:14,042 - DatasetBuilder - INFO - Loading Ergast results data from /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv
+2025-05-04 20:04:14,042 - DatasetBuilder - WARNING - Ergast results file not found: /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv. Race positions will be missing.
+2025-05-04 20:04:14,042 - DatasetBuilder - INFO - Starting data merging...
+2025-05-04 20:04:14,043 - DatasetBuilder - WARNING - Using "date" column from session data as "date_start" is missing.
+2025-05-04 20:04:14,043 - DatasetBuilder - ERROR - Missing required columns in session_data: ['circuit_short_name']. Cannot proceed.
+2025-05-04 20:04:14,043 - DatasetBuilder - ERROR - Merging failed or resulted in empty dataframe. Exiting.
+2025-05-04 20:08:19,287 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-04 20:08:19,288 - DatasetBuilder - INFO - Loading lap data from /home/ubuntu/f1_predictor/data/raw/lap_data.csv
+2025-05-04 20:08:19,985 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-04 20:08:19,985 - DatasetBuilder - INFO - Loading session data from /home/ubuntu/f1_predictor/data/raw/session_raw.csv
+2025-05-04 20:08:19,988 - DatasetBuilder - WARNING - Using 'date' column to extract year as 'date_start' is missing.
+2025-05-04 20:08:19,992 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-04 20:08:19,993 - DatasetBuilder - INFO - Loading weather data from /home/ubuntu/f1_predictor/data/raw/weather_raw.csv
+2025-05-04 20:08:19,996 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-04 20:08:19,996 - DatasetBuilder - INFO - Loading Ergast results data from /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv
+2025-05-04 20:08:19,996 - DatasetBuilder - WARNING - Ergast results file not found: /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv. Race positions will be missing.
+2025-05-04 20:08:19,996 - DatasetBuilder - INFO - Starting data merging...
+2025-05-04 20:08:19,996 - DatasetBuilder - WARNING - Using "date" column from session data as "date_start" is missing.
+2025-05-04 20:08:19,997 - DatasetBuilder - WARNING - Column "circuit_short_name" missing in session_data. Adding placeholder based on country.
+2025-05-04 20:08:19,998 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
+2025-05-04 20:08:20,033 - DatasetBuilder - INFO - Rows after merging laps and sessions: 143634
+2025-05-04 20:08:20,033 - DatasetBuilder - INFO - Merging with weather_data on "meeting_key"...
+2025-05-04 20:08:20,035 - DatasetBuilder - ERROR - Error merging with weather_data: 'meeting_key'
 Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 52, in simulate_past
-    available_races = session_data['race_name'].unique()
-                      ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 18:00:53,876 - Main - INFO - Starting F1 ML Project
-2025-04-24 18:05:58,141 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 18:05:58,269 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 18:11:49,777 - Main - INFO - Starting F1 ML Project
-2025-04-24 18:11:52,683 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 18:11:52,778 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 18:17:05,681 - Main - INFO - Starting F1 ML Project
-2025-04-24 18:17:07,775 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 18:17:07,893 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 18:39:34,699 - Main - INFO - Starting F1 ML Project
-2025-04-24 18:39:36,476 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 18:39:36,598 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 20:13:48,757 - Main - INFO - Starting F1 ML Project
-2025-04-24 20:13:53,952 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 20:13:54,072 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 20:56:41,268 - Main - INFO - Starting F1 ML Project
-2025-04-24 20:56:43,815 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 20:56:43,933 - Main - ERROR - Unexpected error in main: 'race_name'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'race_name'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_races = sorted(session_data['race_name'].unique())
-                             ~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'race_name'
-2025-04-24 21:00:18,511 - Main - INFO - Starting F1 ML Project
-2025-04-24 21:00:20,574 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:00:20,677 - Main - ERROR - Unexpected error in main: 'country'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'country'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 55, in simulate_past
-    available_countries = sorted(session_data['country'].unique())
-                                 ~~~~~~~~~~~~^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'country'
-2025-04-24 21:02:22,836 - Main - INFO - Starting F1 ML Project
-2025-04-24 21:02:24,404 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:02:24,539 - Main - ERROR - Unexpected error in main: 'country'
-Traceback (most recent call last):
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
-    return self._engine.get_loc(casted_key)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
-  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 'country'
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/Users/brendan/Codemy/f1_ml_project/main.py", line 9, in main
-    display_menu()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 27, in display_menu
-    simulate_past()
-  File "/Users/brendan/Codemy/f1_ml_project/menu/menu.py", line 60, in simulate_past
-    available_countries = sorted(session_data['country'].unique())
-                                 ~~~~~~~~~~~~^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
-    indexer = self.columns.get_loc(key)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
-    raise KeyError(key) from err
-KeyError: 'country'
-2025-04-24 21:06:53,835 - Main - INFO - Starting F1 ML Project
-2025-04-24 21:06:55,421 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:08:37,927 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:08:54,042 - Main - INFO - Starting F1 ML Project
-2025-04-24 21:08:56,296 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:09:30,829 - Menu - INFO - User selected: Simulate Past Race
-2025-04-24 21:26:08,041 - Main - INFO - Starting F1 ML Project
-2025-04-24 21:26:09,865 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 07:26:55,126 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 07:26:58,609 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 07:26:59,689 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 07:27:02,791 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 07:27:35,305 - Main - INFO - Starting F1 ML Project
-2025-04-25 07:27:38,387 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 10:19:26,226 - DatasetBuilder - INFO - 📥 Reading input data...
-2025-04-25 10:19:26,287 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-25 10:19:26,290 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
-2025-04-25 10:19:26,302 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
-2025-04-25 10:19:26,303 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
-2025-04-25 10:19:26,303 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-25 10:19:26,338 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
-2025-04-25 10:19:26,338 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
-2025-04-25 10:19:26,343 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-25 10:19:26,344 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-25 10:19:26,677 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
-2025-04-25 10:20:34,528 - DatasetBuilder - INFO - 📥 Reading input data...
-2025-04-25 10:20:34,552 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-25 10:20:34,553 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
-2025-04-25 10:20:34,567 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
-2025-04-25 10:20:34,568 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
-2025-04-25 10:20:34,568 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-25 10:20:34,597 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
-2025-04-25 10:20:34,597 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
-2025-04-25 10:20:34,602 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-25 10:20:34,602 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-25 10:20:34,839 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
-2025-04-25 10:21:30,492 - Main - INFO - Starting F1 ML Project
-2025-04-25 10:21:32,819 - Menu - INFO - User selected: Simulate Past Race
-2025-04-25 10:31:40,355 - DatasetBuilder - INFO - 📥 Reading input data...
-2025-04-25 10:31:40,383 - DatasetBuilder - INFO - 🔗 Merging lap data with weather data...
-2025-04-25 10:31:40,384 - DatasetBuilder - INFO - ✅ 'session_key' found in lap_data.
-2025-04-25 10:31:40,396 - DatasetBuilder - INFO - 🔍 Columns after weather merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'meeting_key', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'date', 'country_name', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed']
-2025-04-25 10:31:40,396 - DatasetBuilder - INFO - 🧠 Inferring 'session_type' from 'session_name'
-2025-04-25 10:31:40,397 - DatasetBuilder - INFO - 🔗 Merging with session data using 'session_key'
-2025-04-25 10:31:40,425 - DatasetBuilder - WARNING - ⚠️ Still missing values: 35410
-2025-04-25 10:31:40,425 - DatasetBuilder - INFO - 🗑️ Cleaned data. Remaining rows: 32565
-2025-04-25 10:31:40,430 - DatasetBuilder - INFO - 📝 Generating summary...
-2025-04-25 10:31:40,431 - DatasetBuilder - INFO - 💾 Saving cleaned data...
-2025-04-25 10:31:40,688 - DatasetBuilder - INFO - ✅ Data saved to data/processed/cleaned_f1_data.csv
-2025-04-25 10:36:48,329 - WeatherFetcher - INFO - 🌤️ Starting weather fetch for 28 sessions...
-2025-04-25 10:36:49,433 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9683: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9683
-2025-04-25 10:36:50,256 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9684: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9684
-2025-04-25 10:36:50,861 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9685: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1253&session_key=9685
-2025-04-25 10:36:51,518 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9686: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9686
-2025-04-25 10:36:52,352 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9687: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9687
-2025-04-25 10:36:52,943 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9688: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9688
-2025-04-25 10:36:53,564 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9689: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9689
-2025-04-25 10:36:54,453 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9693: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1254&session_key=9693
-2025-04-25 10:36:55,056 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9988: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9988
-2025-04-25 10:36:55,643 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9989: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9989
-2025-04-25 10:36:56,547 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9993: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9993
-2025-04-25 10:36:57,163 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9994: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9994
-2025-04-25 10:36:57,764 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9998: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1255&session_key=9998
-2025-04-25 10:36:58,389 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 9999: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=9999
-2025-04-25 10:36:59,037 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10000: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10000
-2025-04-25 10:36:59,701 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10001: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10001
-2025-04-25 10:37:00,313 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10002: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10002
-2025-04-25 10:37:00,929 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10006: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1256&session_key=10006
-2025-04-25 10:37:01,652 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10007: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10007
-2025-04-25 10:37:02,329 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10008: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10008
-2025-04-25 10:37:02,915 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10009: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10009
-2025-04-25 10:37:03,599 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10010: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10010
-2025-04-25 10:37:04,420 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10014: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1257&session_key=10014
-2025-04-25 10:37:05,020 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10015: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10015
-2025-04-25 10:37:05,984 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10016: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10016
-2025-04-25 10:37:06,574 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10017: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10017
-2025-04-25 10:37:07,226 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10018: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10018
-2025-04-25 10:37:08,081 - WeatherFetcher - ERROR - ❌ Error fetching weather for session 10022: 500 Server Error: Internal Server Error for url: https://api.openf1.org/weather?meeting_key=1258&session_key=10022
-2025-04-25 10:37:08,085 - WeatherFetcher - INFO - ✅ Saved weather data for 0 sessions.
-2025-04-30 21:46:59,281 - XGBoostTrainer - INFO - Starting model training script...
-2025-04-30 21:46:59,282 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-04-30 21:46:59,554 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (32565, 27)
-2025-04-30 21:46:59,555 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-04-30 21:46:59,556 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-04-30 21:46:59,556 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-04-30 21:46:59,556 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'driver_number', 'session_type']
-2025-04-30 21:46:59,563 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 32565
-2025-04-30 21:46:59,566 - XGBoostTrainer - INFO - Filled NaNs in numeric feature 'i1_speed' with median (258.0)
-2025-04-30 21:46:59,568 - XGBoostTrainer - INFO - Filled NaNs in numeric feature 'st_speed' with median (298.0)
-2025-04-30 21:46:59,574 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-04-30 21:46:59,583 - XGBoostTrainer - INFO - Final features after encoding and sanitization (18): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-04-30 21:46:59,584 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-04-30 21:46:59,584 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-04-30 21:46:59,592 - XGBoostTrainer - INFO - Training set shape: (26052, 18), Test set shape: (6513, 18)
-2025-04-30 21:46:59,592 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-04-30 21:48:56,190 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-04-30 21:48:56,191 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0.1, 'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0, 'subsample': 0.9}
-2025-04-30 21:48:56,191 - XGBoostTrainer - INFO - Best CV RMSE: 0.8924
-2025-04-30 21:48:56,207 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 0.6553
-2025-04-30 21:48:56,207 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-04-30 21:48:56,248 - XGBoostTrainer - INFO - Model saved successfully.
-2025-04-30 21:48:56,248 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-04-30 21:48:57,087 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-04-30 21:48:57,087 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-04-30 21:48:57,369 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-04-30 21:48:57,370 - XGBoostTrainer - INFO - Model training process completed.
-2025-04-30 21:48:57,372 - XGBoostTrainer - INFO - Model training finished successfully.
-2025-05-01 00:07:45,546 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 00:07:45,547 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 00:07:46,014 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5), weather_data: (0, 11)
-2025-05-01 00:07:46,015 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 00:07:46,044 - DatasetBuilder - ERROR - Missing required columns in session_data: ['date_start']. Cannot proceed with merge.
-2025-05-01 00:07:46,044 - DatasetBuilder - ERROR - Data merging failed or resulted in empty dataframe. Aborting.
-2025-05-01 00:09:49,932 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 00:09:49,932 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 00:09:50,207 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5), weather_data: (0, 11)
-2025-05-01 00:09:50,207 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 00:09:50,207 - DatasetBuilder - INFO - Merging lap_data with session_data on 'session_key'...
-2025-05-01 00:09:50,236 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 00:09:50,236 - DatasetBuilder - DEBUG - Columns after lap+session merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'country_name', 'date', 'session_name', 'meeting_key']
-2025-05-01 00:09:50,237 - DatasetBuilder - WARNING - Weather data is empty. Skipping weather merge.
-2025-05-01 00:09:50,243 - DatasetBuilder - INFO - Inferred 'session_type' from 'session_name'.
-2025-05-01 00:09:50,243 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 00:09:50,331 - DatasetBuilder - INFO - Added 'year' and 'race_weekend' columns.
-2025-05-01 00:09:50,331 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 00:09:50,403 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 00:09:50,429 - DatasetBuilder - INFO - Rows after filtering invalid lap_duration: 7745
-2025-05-01 00:09:50,443 - DatasetBuilder - INFO - Filled NaN values using median for numeric or default for others.
-2025-05-01 00:09:50,457 - DatasetBuilder - WARNING - Still missing values after cleaning: 54232
-2025-05-01 00:09:50,468 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1      11
-segments_sector_2       4
-segments_sector_3       2
-air_temperature      7745
-humidity             7745
-pressure             7745
-rainfall             7745
-track_temperature    7745
-wind_direction       7745
-wind_speed           7745
+  File "/home/ubuntu/f1_predictor/data_pipeline/dataset_builder.py", line 310, in merge_data
+    merged_data = pd.merge(merged_data, weather_data_unique, on="meeting_key", how="left", suffixes=("", "_weather"))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/reshape/merge.py", line 170, in merge
+    op = _MergeOperation(
+         ^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/reshape/merge.py", line 794, in __init__
+    ) = self._get_merge_keys()
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/reshape/merge.py", line 1310, in _get_merge_keys
+    left_keys.append(left._get_label_or_level_values(lk))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/pandas/core/generic.py", line 1911, in _get_label_or_level_values
+    raise KeyError(key)
+KeyError: 'meeting_key'
+2025-05-04 20:09:32,969 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-04 20:09:32,969 - DatasetBuilder - INFO - Loading lap data from /home/ubuntu/f1_predictor/data/raw/lap_data.csv
+2025-05-04 20:09:33,729 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-04 20:09:33,729 - DatasetBuilder - INFO - Loading session data from /home/ubuntu/f1_predictor/data/raw/session_raw.csv
+2025-05-04 20:09:33,732 - DatasetBuilder - WARNING - Using 'date' column to extract year as 'date_start' is missing.
+2025-05-04 20:09:33,737 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-04 20:09:33,737 - DatasetBuilder - INFO - Loading weather data from /home/ubuntu/f1_predictor/data/raw/weather_raw.csv
+2025-05-04 20:09:33,740 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-04 20:09:33,740 - DatasetBuilder - INFO - Loading Ergast results data from /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv
+2025-05-04 20:09:33,741 - DatasetBuilder - WARNING - Ergast results file not found: /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv. Race positions will be missing.
+2025-05-04 20:09:33,741 - DatasetBuilder - INFO - Starting data merging...
+2025-05-04 20:09:33,741 - DatasetBuilder - WARNING - Using "date" column from session data as "date_start" is missing.
+2025-05-04 20:09:33,741 - DatasetBuilder - WARNING - Column "circuit_short_name" missing in session_data. Adding placeholder based on country.
+2025-05-04 20:09:33,743 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
+2025-05-04 20:09:33,777 - DatasetBuilder - INFO - Rows after merging laps and sessions: 143634
+2025-05-04 20:09:33,778 - DatasetBuilder - ERROR - Column "meeting_key" missing in merged lap/session data. Cannot merge weather.
+2025-05-04 20:09:33,782 - DatasetBuilder - WARNING - Ergast results data is empty or None. Skipping race results merge.
+2025-05-04 20:09:33,848 - DatasetBuilder - INFO - Inferred/updated "session_type" from "session_name".
+2025-05-04 20:09:33,848 - DatasetBuilder - INFO - Data merging complete.
+2025-05-04 20:09:34,192 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
+2025-05-04 20:09:34,192 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
+2025-05-04 20:09:34,276 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 96.388.
+2025-05-04 20:09:34,282 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 143634
+2025-05-04 20:09:34,282 - DatasetBuilder - INFO - Inferring/updating "session_type" from "session_name" during cleaning.
+2025-05-04 20:09:34,380 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint', 'sprint_qualifying']): 138430
+2025-05-04 20:09:34,442 - DatasetBuilder - INFO - Filtered out 6971 rows with invalid lap_duration (<= 0). Rows remaining: 131459
+2025-05-04 20:09:34,445 - DatasetBuilder - WARNING - Median and Mean for air_temperature are NaN, filling with 0.
+2025-05-04 20:09:34,447 - DatasetBuilder - WARNING - Median and Mean for humidity are NaN, filling with 0.
+2025-05-04 20:09:34,449 - DatasetBuilder - WARNING - Median and Mean for pressure are NaN, filling with 0.
+2025-05-04 20:09:34,450 - DatasetBuilder - WARNING - Median and Mean for rainfall are NaN, filling with 0.
+2025-05-04 20:09:34,452 - DatasetBuilder - WARNING - Median and Mean for track_temperature are NaN, filling with 0.
+2025-05-04 20:09:34,454 - DatasetBuilder - WARNING - Median and Mean for wind_direction are NaN, filling with 0.
+2025-05-04 20:09:34,455 - DatasetBuilder - WARNING - Median and Mean for wind_speed are NaN, filling with 0.
+2025-05-04 20:09:34,508 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
+2025-05-04 20:09:34,602 - DatasetBuilder - WARNING - Still missing values after cleaning: 8
+2025-05-04 20:09:34,786 - DatasetBuilder - WARNING - Columns with remaining NaNs:
+date_start    8
 dtype: int64
-2025-05-01 00:09:50,468 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 00:09:50,469 - DatasetBuilder - INFO - Saving cleaned data to data/processed/cleaned_f1_data.csv...
-2025-05-01 00:09:50,719 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 29)
-2025-05-01 00:09:50,720 - DatasetBuilder - INFO - Generating summary file at data/processed/summary.txt...
-2025-05-01 00:09:50,774 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 00:09:50,774 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-2025-05-01 00:11:26,818 - Main - INFO - Starting F1 ML Project
-2025-05-01 00:12:11,547 - Menu - INFO - User selected: Simulate Past Qualifying
-2025-05-01 00:12:11,548 - Menu - INFO - Loading data from data/processed/cleaned_f1_data.csv
-2025-05-01 00:12:11,611 - Menu - INFO - Data loaded. Shape: (7745, 29)
-2025-05-01 00:12:30,403 - Menu - INFO - User selected race weekend: 2025_Bahrain
-2025-05-01 00:12:30,407 - Menu - INFO - Filtered data for 2025_Bahrain qualifying simulation. Input rows: 1765
-2025-05-01 00:12:30,580 - Menu - INFO - Simulation successful for 2025_Bahrain.
-2025-05-01 00:19:34,584 - Main - INFO - Starting F1 ML Project
-2025-05-01 00:20:18,287 - Menu - INFO - User selected: Simulate Past Qualifying
-2025-05-01 00:20:18,287 - Menu - INFO - Loading data from data/processed/cleaned_f1_data.csv
-2025-05-01 00:20:18,352 - Menu - INFO - Data loaded. Shape: (7745, 29)
-2025-05-01 00:20:34,122 - Menu - INFO - User selected race weekend: 2025_Bahrain
-2025-05-01 00:20:34,127 - Menu - INFO - Filtered data for 2025_Bahrain qualifying simulation. Input rows: 1765
-2025-05-01 00:20:34,279 - Menu - INFO - Simulation successful for 2025_Bahrain. Displayed top 10.
-2025-05-01 00:39:40,502 - DriverFetcher - INFO - --- Starting Driver Fetcher --- 
-2025-05-01 00:39:40,504 - DriverFetcher - INFO - Fetching drivers for year 2023 from https://api.openf1.org/v1/drivers?session_key__year=2023
-2025-05-01 00:39:40,734 - DriverFetcher - INFO - Successfully fetched 0 driver entries for 2023.
-2025-05-01 00:39:40,735 - DriverFetcher - INFO - Fetching drivers for year 2024 from https://api.openf1.org/v1/drivers?session_key__year=2024
-2025-05-01 00:39:41,264 - DriverFetcher - INFO - Successfully fetched 0 driver entries for 2024.
-2025-05-01 00:39:41,265 - DriverFetcher - INFO - Fetching drivers for year 2025 from https://api.openf1.org/v1/drivers?session_key__year=2025
-2025-05-01 00:39:41,515 - DriverFetcher - INFO - Successfully fetched 0 driver entries for 2025.
-2025-05-01 00:39:41,516 - DriverFetcher - ERROR - No driver data fetched. Aborting.
-2025-05-01 00:41:13,827 - DriverFetcher - INFO - --- Starting Driver Fetcher --- 
-2025-05-01 00:41:13,827 - DriverFetcher - INFO - Fetching all drivers from https://api.openf1.org/v1/drivers
-2025-05-01 00:41:17,197 - DriverFetcher - INFO - Successfully fetched 5199 total driver entries.
-2025-05-01 00:41:17,264 - DriverFetcher - INFO - Driver mapping saved successfully to data/processed/driver_map.csv. Shape: (53, 2)
-2025-05-01 00:41:17,264 - DriverFetcher - INFO - --- Driver Fetcher Finished --- 
-2025-05-01 00:51:38,582 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-01 00:51:38,583 - SessionFetcher - INFO - Fetching sessions for year 2023...
-2025-05-01 00:51:38,806 - SessionFetcher - ERROR - HTTP Error fetching session data for 2023: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-2025-05-01 00:51:38,807 - SessionFetcher - WARNING - No sessions fetched for year 2023.
-2025-05-01 00:51:38,807 - SessionFetcher - INFO - Fetching sessions for year 2024...
-2025-05-01 00:51:39,055 - SessionFetcher - ERROR - HTTP Error fetching session data for 2024: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-2025-05-01 00:51:39,056 - SessionFetcher - WARNING - No sessions fetched for year 2024.
-2025-05-01 00:51:39,056 - SessionFetcher - INFO - Fetching sessions for year 2025...
-2025-05-01 00:51:39,226 - SessionFetcher - ERROR - HTTP Error fetching session data for 2025: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-2025-05-01 00:51:39,226 - SessionFetcher - WARNING - No sessions fetched for year 2025.
-2025-05-01 00:51:39,226 - SessionFetcher - ERROR - No sessions fetched for any year. Check API or configuration.
-2025-05-01 00:51:39,226 - SessionFetcher - INFO - --- Session Fetcher Finished ---
-2025-05-01 01:02:00,641 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 01:02:00,641 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 01:02:00,707 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5), weather_data: (0, 11)
-2025-05-01 01:02:00,707 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 01:02:00,708 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
-2025-05-01 01:02:00,730 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 01:02:00,730 - DatasetBuilder - DEBUG - Columns after lap+session merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'country_name', 'date', 'session_name', 'meeting_key']
-2025-05-01 01:02:00,731 - DatasetBuilder - WARNING - Weather data is empty. Skipping weather merge.
-2025-05-01 01:02:00,737 - DatasetBuilder - INFO - Inferred "session_type" from "session_name".
-2025-05-01 01:02:00,737 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 01:02:00,776 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
-2025-05-01 01:02:00,776 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
-2025-05-01 01:02:00,786 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 108.433.
-2025-05-01 01:02:00,786 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 01:02:00,801 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 01:02:00,804 - DatasetBuilder - INFO - Rows after filtering invalid lap_duration: 7745
-2025-05-01 01:02:00,805 - DatasetBuilder - WARNING - Median for air_temperature is NaN, filling with 0.
-2025-05-01 01:02:00,805 - DatasetBuilder - WARNING - Median for humidity is NaN, filling with 0.
-2025-05-01 01:02:00,806 - DatasetBuilder - WARNING - Median for pressure is NaN, filling with 0.
-2025-05-01 01:02:00,806 - DatasetBuilder - WARNING - Median for rainfall is NaN, filling with 0.
-2025-05-01 01:02:00,806 - DatasetBuilder - WARNING - Median for track_temperature is NaN, filling with 0.
-2025-05-01 01:02:00,807 - DatasetBuilder - WARNING - Median for wind_direction is NaN, filling with 0.
-2025-05-01 01:02:00,807 - DatasetBuilder - WARNING - Median for wind_speed is NaN, filling with 0.
-2025-05-01 01:02:00,816 - DatasetBuilder - INFO - Filled NaN values using median for numeric or default for others.
-2025-05-01 01:02:00,831 - DatasetBuilder - WARNING - Still missing values after cleaning: 17
-2025-05-01 01:02:00,841 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1    11
-segments_sector_2     4
-segments_sector_3     2
+2025-05-04 20:09:34,786 - DatasetBuilder - INFO - Cleaning complete. Final rows: 131459
+2025-05-04 20:09:34,787 - DatasetBuilder - INFO - Saving cleaned data to /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv...
+2025-05-04 20:09:39,135 - DatasetBuilder - INFO - Successfully saved 131459 rows to /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv.
+2025-05-04 20:09:39,135 - DatasetBuilder - INFO - Generating summary report to /home/ubuntu/f1_predictor/data/processed/summary.txt...
+2025-05-04 20:09:39,438 - DatasetBuilder - INFO - Summary report generated successfully.
+2025-05-04 20:09:39,438 - DatasetBuilder - INFO - Dataset builder pipeline finished.
+2025-05-04 20:37:31,177 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-04 20:37:31,178 - DatasetBuilder - INFO - Loading lap data from /home/ubuntu/f1_predictor/data/raw/lap_data.csv
+2025-05-04 20:37:32,364 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-04 20:37:32,364 - DatasetBuilder - INFO - Loading session data from /home/ubuntu/f1_predictor/data/raw/session_raw.csv
+2025-05-04 20:37:32,367 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-04 20:37:32,367 - DatasetBuilder - INFO - Loading weather data from /home/ubuntu/f1_predictor/data/raw/weather_raw.csv
+2025-05-04 20:37:32,370 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-04 20:37:32,370 - DatasetBuilder - INFO - Loading Ergast results data from /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv
+2025-05-04 20:37:32,371 - DatasetBuilder - WARNING - Ergast results file not found: /home/ubuntu/f1_predictor/data/raw/ergast_race_results.csv. Race positions will be missing.
+2025-05-04 20:37:32,371 - DatasetBuilder - INFO - Starting data merging...
+2025-05-04 20:37:32,371 - DatasetBuilder - WARNING - Using 'date' column from session data as 'date_start' is missing.
+2025-05-04 20:37:32,372 - DatasetBuilder - INFO - Extracting 'year' from 'date' in session_data.
+2025-05-04 20:37:32,378 - DatasetBuilder - WARNING - Column 'circuit_short_name' missing in session_data. Adding placeholder based on country.
+2025-05-04 20:37:32,380 - DatasetBuilder - INFO - Merging lap_data with session_data on 'session_key'...
+2025-05-04 20:37:32,420 - DatasetBuilder - INFO - Rows after merging laps and sessions: 143634
+2025-05-04 20:37:32,420 - DatasetBuilder - ERROR - CRITICAL: 'meeting_key' was lost during lap/session merge!
+2025-05-04 20:37:32,420 - DatasetBuilder - INFO - Attempting to re-merge meeting_key...
+2025-05-04 20:37:32,544 - DatasetBuilder - INFO - Merging with weather_data on 'meeting_key'...
+2025-05-04 20:37:32,839 - DatasetBuilder - INFO - Rows after merging with weather: 143634
+2025-05-04 20:37:32,840 - DatasetBuilder - WARNING - Ergast results data is empty or None. Skipping race results merge. Race positions will be NaN.
+2025-05-04 20:37:32,912 - DatasetBuilder - INFO - Inferred/updated 'session_type' from 'session_name'.
+2025-05-04 20:37:32,912 - DatasetBuilder - INFO - Data merging complete.
+2025-05-04 20:37:33,306 - DatasetBuilder - INFO - Added 'year' and 'race_weekend' columns.
+2025-05-04 20:37:33,306 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
+2025-05-04 20:37:33,386 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 96.388.
+2025-05-04 20:37:33,392 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 143634
+2025-05-04 20:37:33,532 - DatasetBuilder - INFO - Inferring/updating 'session_type' from 'session_name' during cleaning.
+2025-05-04 20:37:33,618 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint', 'sprint_qualifying']): 138430
+2025-05-04 20:37:33,651 - DatasetBuilder - INFO - Filtered out 6971 rows with invalid lap_duration (<= 0). Rows remaining: 131459
+2025-05-04 20:37:33,705 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
+2025-05-04 20:37:33,794 - DatasetBuilder - WARNING - Still missing values after cleaning: 8
+2025-05-04 20:37:33,794 - DatasetBuilder - WARNING - Columns with remaining NaNs:
+date_start    8
 dtype: int64
-2025-05-01 01:02:00,841 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 01:02:00,841 - DatasetBuilder - INFO - Saving cleaned data to data/processed/cleaned_f1_data.csv...
-2025-05-01 01:02:01,140 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 30)
-2025-05-01 01:02:01,140 - DatasetBuilder - INFO - Generating summary file at data/processed/summary.txt...
-2025-05-01 01:02:01,191 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 01:02:01,191 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-2025-05-01 01:04:14,062 - XGBoostTrainer - INFO - Starting model training script...
-2025-05-01 01:04:14,062 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-01 01:04:14,142 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (7745, 30)
-2025-05-01 01:04:14,142 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-01 01:04:14,143 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-01 01:04:14,143 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-01 01:04:14,143 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-01 01:04:14,146 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 7745
-2025-05-01 01:04:14,150 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-01 01:04:14,153 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-01 01:04:14,154 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-01 01:04:14,154 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-01 01:04:14,157 - XGBoostTrainer - INFO - Training set shape: (6196, 20), Test set shape: (1549, 20)
-2025-05-01 01:04:14,157 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-01 01:05:32,438 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-01 01:05:32,438 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'subsample': 0.7}
-2025-05-01 01:05:32,438 - XGBoostTrainer - INFO - Best CV RMSE: 2.3601
-2025-05-01 01:05:32,444 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 2.2437
-2025-05-01 01:05:32,444 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-01 01:05:32,460 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-01 01:05:32,460 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-01 01:05:33,190 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-01 01:05:33,190 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-01 01:05:33,443 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-01 01:05:33,444 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-01 01:05:33,445 - XGBoostTrainer - INFO - Model training finished successfully.
-2025-05-01 01:11:56,215 - Main - INFO - Starting F1 ML Project
-2025-05-01 01:11:56,218 - Menu - INFO - Successfully loaded driver map from data/processed/driver_map.csv. 53 drivers found.
-2025-05-01 01:12:45,646 - Menu - INFO - User selected: Simulate Past Qualifying
-2025-05-01 01:12:45,647 - Menu - INFO - Loading data from data/processed/cleaned_f1_data.csv
-2025-05-01 01:12:45,706 - Menu - INFO - Data loaded. Shape: (7745, 30)
-2025-05-01 01:13:11,297 - Menu - INFO - User selected race weekend: 2025_Bahrain
-2025-05-01 01:13:11,302 - Menu - INFO - Filtered data for 2025_Bahrain qualifying simulation. Input rows: 1765
-2025-05-01 01:13:11,359 - Menu - INFO - Simulation successful for 2025_Bahrain. Displayed top 10.
-2025-05-01 01:13:35,748 - Menu - INFO - User selected: Update Training Data & Retrain Model
-2025-05-01 01:13:36,219 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 01:13:36,219 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5), weather_data: (0, 11)
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
-2025-05-01 01:13:36,325 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 01:13:36,326 - DatasetBuilder - DEBUG - Columns after lap+session merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'country_name', 'date', 'session_name', 'meeting_key']
-2025-05-01 01:13:36,326 - DatasetBuilder - WARNING - Weather data is empty. Skipping weather merge.
-2025-05-01 01:13:36,332 - DatasetBuilder - INFO - Inferred "session_type" from "session_name".
-2025-05-01 01:13:36,332 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 01:13:36,359 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
-2025-05-01 01:13:36,360 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
-2025-05-01 01:13:36,368 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 108.433.
-2025-05-01 01:13:36,368 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 01:13:36,418 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 01:13:36,421 - DatasetBuilder - INFO - Rows after filtering invalid lap_duration: 7745
-2025-05-01 01:13:36,422 - DatasetBuilder - WARNING - Median for air_temperature is NaN, filling with 0.
-2025-05-01 01:13:36,422 - DatasetBuilder - WARNING - Median for humidity is NaN, filling with 0.
-2025-05-01 01:13:36,423 - DatasetBuilder - WARNING - Median for pressure is NaN, filling with 0.
-2025-05-01 01:13:36,423 - DatasetBuilder - WARNING - Median for rainfall is NaN, filling with 0.
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for track_temperature is NaN, filling with 0.
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for wind_direction is NaN, filling with 0.
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for wind_speed is NaN, filling with 0.
-2025-05-01 01:13:36,434 - DatasetBuilder - INFO - Filled NaN values using median for numeric or default for others.
-2025-05-01 01:13:36,438 - DatasetBuilder - WARNING - Still missing values after cleaning: 17
-2025-05-01 01:13:36,452 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1    11
-segments_sector_2     4
-segments_sector_3     2
+2025-05-04 20:37:33,795 - DatasetBuilder - INFO - Cleaning complete. Final rows: 131459
+2025-05-04 20:37:33,795 - DatasetBuilder - INFO - Saving cleaned data to /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv...
+2025-05-04 20:37:39,067 - DatasetBuilder - INFO - Successfully saved 131459 rows to /home/ubuntu/f1_predictor/data/processed/cleaned_f1_data.csv.
+2025-05-04 20:37:39,067 - DatasetBuilder - INFO - Generating summary report to /home/ubuntu/f1_predictor/data/processed/summary.txt...
+2025-05-04 20:37:39,438 - DatasetBuilder - INFO - Summary report generated successfully.
+2025-05-04 20:37:39,438 - DatasetBuilder - INFO - Dataset builder pipeline finished.
+2025-05-05 10:40:53,442 - Main - INFO - Starting F1 ML Project from root: /Users/brendan/Python/f1_ml_project
+2025-05-05 10:40:53,446 - MenuUtils - INFO - Successfully loaded driver map from /Users/brendan/Python/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
+2025-05-05 10:41:00,892 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/session_fetcher.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:41:01,033 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
+2025-05-05 10:41:03,656 - SessionFetcher - INFO - Retrieved 112 session entries for 2023.
+2025-05-05 10:41:06,116 - SessionFetcher - INFO - Retrieved 120 session entries for 2024.
+2025-05-05 10:41:08,267 - SessionFetcher - INFO - Retrieved 33 session entries for 2025.
+2025-05-05 10:41:08,270 - SessionFetcher - INFO - Combined session data saved to /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv. Total sessions: 265
+2025-05-05 10:41:08,270 - SessionFetcher - INFO - Successfully fetched a total of 265 sessions across all years.
+2025-05-05 10:41:08,294 - DataMenu - INFO - Script data_pipeline/session_fetcher.py finished successfully. RC: 0
+2025-05-05 10:41:45,108 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/lap_collector.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:41:45,241 - LapCollector - INFO - --- Starting Lap Collector (v1.20 - Failed Session Cleanup) --- 
+2025-05-05 10:41:47,170 - LapCollector - INFO - Loaded 265 completed session keys from /Users/brendan/Python/f1_ml_project/data/raw/done_sessions.txt
+2025-05-05 10:41:47,171 - LapCollector - INFO - Found 265 sessions in /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv.
+2025-05-05 10:41:47,172 - LapCollector - INFO - Total sessions in CSV: 265
+2025-05-05 10:41:47,172 - LapCollector - INFO - Sessions already completed: 265
+2025-05-05 10:41:47,172 - LapCollector - INFO - Sessions remaining to fetch: 0
+2025-05-05 10:41:47,172 - LapCollector - INFO - No new sessions to fetch.
+2025-05-05 10:41:47,172 - LapCollector - INFO - --- Lap Collector Finished --- 
+2025-05-05 10:41:47,185 - DataMenu - INFO - Script data_pipeline/lap_collector.py finished successfully. RC: 0
+2025-05-05 10:41:51,535 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/weather_fetcher.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:41:51,582 - DataMenu - ERROR - Script data_pipeline/weather_fetcher.py failed with return code 1
+2025-05-05 10:43:20,546 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/weather_fetcher.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:43:21,066 - WeatherFetcher - INFO - Loaded 265 sessions from /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv
+2025-05-05 10:43:21,071 - WeatherFetcher - INFO - Found 265 existing session keys in /Users/brendan/Python/f1_ml_project/data/raw/weather_raw.csv
+2025-05-05 10:43:21,071 - WeatherFetcher - INFO - ✅ No missing weather data to fetch. File is up-to-date.
+2025-05-05 10:43:21,108 - DataMenu - INFO - Script data_pipeline/weather_fetcher.py finished successfully. RC: 0
+2025-05-05 10:43:28,844 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/dataset_builder.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:43:29,204 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-05 10:43:29,204 - DatasetBuilder - INFO - Loading lap data from /Users/brendan/Python/f1_ml_project/data/raw/lap_data.csv
+2025-05-05 10:43:29,443 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-05 10:43:29,443 - DatasetBuilder - INFO - Loading session data from /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv
+2025-05-05 10:43:29,444 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-05 10:43:29,444 - DatasetBuilder - INFO - Loading weather data from /Users/brendan/Python/f1_ml_project/data/raw/weather_raw.csv
+2025-05-05 10:43:29,445 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-05 10:43:29,445 - DatasetBuilder - INFO - Loading Ergast results data from /Users/brendan/Python/f1_ml_project/data/raw/ergast_race_results.csv
+2025-05-05 10:43:29,445 - DatasetBuilder - WARNING - Ergast results file not found: /Users/brendan/Python/f1_ml_project/data/raw/ergast_race_results.csv. Race positions will be missing.
+2025-05-05 10:43:29,445 - DatasetBuilder - INFO - Starting data merging...
+2025-05-05 10:43:29,445 - DatasetBuilder - WARNING - Using 'date' column from session data as 'date_start' is missing.
+2025-05-05 10:43:29,445 - DatasetBuilder - INFO - Extracting 'year' from 'date' in session_data.
+2025-05-05 10:43:29,451 - DatasetBuilder - WARNING - Column 'circuit_short_name' missing in session_data. Adding placeholder based on country.
+2025-05-05 10:43:29,452 - DatasetBuilder - INFO - Merging lap_data with session_data on 'session_key'...
+2025-05-05 10:43:29,480 - DatasetBuilder - INFO - Rows after merging laps and sessions: 143634
+2025-05-05 10:43:29,480 - DatasetBuilder - ERROR - CRITICAL: 'meeting_key' was lost during lap/session merge!
+2025-05-05 10:43:29,480 - DatasetBuilder - INFO - Attempting to re-merge meeting_key...
+2025-05-05 10:43:29,511 - DatasetBuilder - INFO - Merging with weather_data on 'meeting_key'...
+2025-05-05 10:43:29,686 - DatasetBuilder - INFO - Rows after merging with weather: 143634
+2025-05-05 10:43:29,687 - DatasetBuilder - WARNING - Ergast results data is empty or None. Skipping race results merge. Race positions will be NaN.
+2025-05-05 10:43:29,711 - DatasetBuilder - INFO - Inferred/updated 'session_type' from 'session_name'.
+2025-05-05 10:43:29,711 - DatasetBuilder - INFO - Data merging complete.
+2025-05-05 10:43:29,827 - DatasetBuilder - INFO - Added 'year' and 'race_weekend' columns.
+2025-05-05 10:43:29,828 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
+2025-05-05 10:43:29,862 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 96.388.
+2025-05-05 10:43:29,867 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 143634
+2025-05-05 10:43:29,911 - DatasetBuilder - INFO - Inferring/updating 'session_type' from 'session_name' during cleaning.
+2025-05-05 10:43:29,951 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint', 'sprint_qualifying']): 138430
+2025-05-05 10:43:29,970 - DatasetBuilder - INFO - Filtered out 6971 rows with invalid lap_duration (<= 0). Rows remaining: 131459
+2025-05-05 10:43:29,995 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
+2025-05-05 10:43:30,026 - DatasetBuilder - WARNING - Still missing values after cleaning: 8
+2025-05-05 10:43:30,026 - DatasetBuilder - WARNING - Columns with remaining NaNs:
+date_start    8
 dtype: int64
-2025-05-01 01:13:36,452 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 01:13:36,452 - DatasetBuilder - INFO - Saving cleaned data to data/processed/cleaned_f1_data.csv...
-2025-05-01 01:13:36,728 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 30)
-2025-05-01 01:13:36,728 - DatasetBuilder - INFO - Generating summary file at data/processed/summary.txt...
-2025-05-01 01:13:36,778 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 01:13:36,779 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-2025-05-01 01:13:36,855 - Menu - INFO - Dataset builder output:
-
-2025-05-01 01:13:36,855 - Menu - WARNING - Dataset builder stderr:
-2025-05-01 01:13:36,219 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 01:13:36,219 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5), weather_data: (0, 11)
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 01:13:36,317 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
-2025-05-01 01:13:36,325 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 01:13:36,326 - DatasetBuilder - WARNING - Weather data is empty. Skipping weather merge.
-2025-05-01 01:13:36,332 - DatasetBuilder - INFO - Inferred "session_type" from "session_name".
-2025-05-01 01:13:36,332 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 01:13:36,359 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
-2025-05-01 01:13:36,360 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
-/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/dataset_builder.py:85: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
-The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
-
-For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
-
-
-  df_sorted[f"rolling_avg_lap_time_{window}"].fillna(overall_mean_lap_time, inplace=True)
-2025-05-01 01:13:36,368 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 108.433.
-2025-05-01 01:13:36,368 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 01:13:36,418 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 01:13:36,421 - DatasetBuilder - INFO - Rows after filtering invalid lap_duration: 7745
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,422 - DatasetBuilder - WARNING - Median for air_temperature is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,422 - DatasetBuilder - WARNING - Median for humidity is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,423 - DatasetBuilder - WARNING - Median for pressure is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,423 - DatasetBuilder - WARNING - Median for rainfall is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for track_temperature is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for wind_direction is NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 01:13:36,424 - DatasetBuilder - WARNING - Median for wind_speed is NaN, filling with 0.
-2025-05-01 01:13:36,434 - DatasetBuilder - INFO - Filled NaN values using median for numeric or default for others.
-2025-05-01 01:13:36,438 - DatasetBuilder - WARNING - Still missing values after cleaning: 17
-2025-05-01 01:13:36,452 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1    11
-segments_sector_2     4
-segments_sector_3     2
+2025-05-05 10:43:30,026 - DatasetBuilder - INFO - Cleaning complete. Final rows: 131459
+2025-05-05 10:43:30,026 - DatasetBuilder - INFO - Saving cleaned data to /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv...
+2025-05-05 10:43:31,272 - DatasetBuilder - INFO - Successfully saved 131459 rows to /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv.
+2025-05-05 10:43:31,272 - DatasetBuilder - INFO - Generating summary report to /Users/brendan/Python/f1_ml_project/data/processed/summary.txt...
+2025-05-05 10:43:31,409 - DatasetBuilder - INFO - Summary report generated successfully.
+2025-05-05 10:43:31,410 - DatasetBuilder - INFO - Dataset builder pipeline finished.
+2025-05-05 10:43:31,473 - DataMenu - INFO - Script data_pipeline/dataset_builder.py finished successfully. RC: 0
+2025-05-05 10:49:10,753 - Main - INFO - Starting F1 ML Project from root: /Users/brendan/Python/f1_ml_project
+2025-05-05 10:49:10,756 - MenuUtils - INFO - Successfully loaded driver map from /Users/brendan/Python/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
+2025-05-05 10:54:23,972 - Main - INFO - Starting F1 ML Project from root: /Users/brendan/Python/f1_ml_project
+2025-05-05 10:54:23,976 - MenuUtils - INFO - Successfully loaded driver map from /Users/brendan/Python/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
+2025-05-05 10:54:37,315 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/ergast_fetcher.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 10:56:27,190 - DataMenu - INFO - Script data_pipeline/ergast_fetcher.py finished successfully. RC: 0
+2025-05-05 11:30:56,973 - Main - INFO - Starting F1 ML Project from root: /Users/brendan/Python/f1_ml_project
+2025-05-05 11:30:56,978 - MenuUtils - INFO - Successfully loaded driver map from /Users/brendan/Python/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
+2025-05-05 11:31:03,311 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/ergast_fetcher.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 11:44:12,509 - DataMenu - INFO - Script data_pipeline/ergast_fetcher.py finished successfully. RC: 0
+2025-05-05 12:03:57,799 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/dataset_builder.py from /Users/brendan/Python/f1_ml_project
+2025-05-05 12:03:58,427 - DatasetBuilder - INFO - Starting dataset builder pipeline...
+2025-05-05 12:03:58,427 - DatasetBuilder - INFO - Loading lap data from /Users/brendan/Python/f1_ml_project/data/raw/lap_data.csv
+2025-05-05 12:03:58,756 - DatasetBuilder - INFO - Loaded 143634 rows from lap data.
+2025-05-05 12:03:58,756 - DatasetBuilder - INFO - Loading session data from /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv
+2025-05-05 12:03:58,757 - DatasetBuilder - INFO - Loaded 265 rows from session data.
+2025-05-05 12:03:58,757 - DatasetBuilder - INFO - Loading weather data from /Users/brendan/Python/f1_ml_project/data/raw/weather_raw.csv
+2025-05-05 12:03:58,758 - DatasetBuilder - INFO - Loaded 529 rows from weather data.
+2025-05-05 12:03:58,758 - DatasetBuilder - INFO - Loading Ergast results data from /Users/brendan/Python/f1_ml_project/data/raw/ergast_race_results.csv
+2025-05-05 12:03:58,759 - DatasetBuilder - INFO - Loaded 879 rows from Ergast results data.
+2025-05-05 12:03:58,759 - DatasetBuilder - INFO - Starting data merging...
+2025-05-05 12:03:58,760 - DatasetBuilder - WARNING - Using 'date' column from session data as 'date_start' is missing.
+2025-05-05 12:03:58,760 - DatasetBuilder - INFO - Extracting 'year' from 'date' in session_data.
+2025-05-05 12:03:58,765 - DatasetBuilder - WARNING - Column 'circuit_short_name' missing in session_data. Adding placeholder based on country.
+2025-05-05 12:03:58,766 - DatasetBuilder - INFO - Merging lap_data with session_data on 'session_key'...
+2025-05-05 12:03:58,794 - DatasetBuilder - INFO - Rows after merging laps and sessions: 143634
+2025-05-05 12:03:58,794 - DatasetBuilder - ERROR - CRITICAL: 'meeting_key' was lost during lap/session merge!
+2025-05-05 12:03:58,794 - DatasetBuilder - INFO - Attempting to re-merge meeting_key...
+2025-05-05 12:03:58,836 - DatasetBuilder - INFO - Merging with weather_data on 'meeting_key'...
+2025-05-05 12:03:58,979 - DatasetBuilder - INFO - Rows after merging with weather: 143634
+2025-05-05 12:03:58,979 - DatasetBuilder - INFO - Preparing to merge with Ergast race results...
+2025-05-05 12:03:58,983 - DatasetBuilder - INFO - Fetching Ergast schedules for years: [2023 2024 2025]
+2025-05-05 12:03:58,983 - DatasetBuilder - DEBUG - Fetching Ergast schedule for 2023 from http://ergast.com/api/f1/2023.json
+2025-05-05 12:03:59,980 - DatasetBuilder - DEBUG - Fetched 22 schedule entries for 2023.
+2025-05-05 12:04:00,183 - DatasetBuilder - DEBUG - Fetching Ergast schedule for 2024 from http://ergast.com/api/f1/2024.json
+2025-05-05 12:04:01,085 - DatasetBuilder - DEBUG - Fetched 24 schedule entries for 2024.
+2025-05-05 12:04:01,288 - DatasetBuilder - DEBUG - Fetching Ergast schedule for 2025 from http://ergast.com/api/f1/2025.json
+2025-05-05 12:04:01,905 - DatasetBuilder - DEBUG - Fetched 0 schedule entries for 2025.
+2025-05-05 12:04:02,110 - DatasetBuilder - WARNING - Attempting to merge schedule using 'circuit_short_name' as 'circuit_id'. This might be inaccurate.
+2025-05-05 12:04:02,180 - DatasetBuilder - WARNING - 143634 rows could not be mapped to an Ergast round based on year/circuit_short_name.
+2025-05-05 12:04:02,181 - DatasetBuilder - INFO - Merging main data with Ergast results on year, round, driver_number...
+2025-05-05 12:04:02,241 - DatasetBuilder - INFO - Rows after merging with Ergast results: 143634
+2025-05-05 12:04:02,271 - DatasetBuilder - INFO - Inferred/updated 'session_type' from 'session_name'.
+2025-05-05 12:04:02,271 - DatasetBuilder - INFO - Data merging complete.
+2025-05-05 12:04:02,393 - DatasetBuilder - INFO - Added 'year' and 'race_weekend' columns.
+2025-05-05 12:04:02,393 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
+2025-05-05 12:04:02,424 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 96.388.
+2025-05-05 12:04:02,428 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 143634
+2025-05-05 12:04:02,478 - DatasetBuilder - INFO - Inferring/updating 'session_type' from 'session_name' during cleaning.
+2025-05-05 12:04:02,519 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint', 'sprint_qualifying']): 138430
+2025-05-05 12:04:02,537 - DatasetBuilder - INFO - Filtered out 6971 rows with invalid lap_duration (<= 0). Rows remaining: 131459
+2025-05-05 12:04:02,564 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
+2025-05-05 12:04:02,594 - DatasetBuilder - WARNING - Still missing values after cleaning: 8
+2025-05-05 12:04:02,594 - DatasetBuilder - WARNING - Columns with remaining NaNs:
+date_start    8
 dtype: int64
-2025-05-01 01:13:36,452 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 01:13:36,452 - DatasetBuilder - INFO - Saving cleaned data to data/processed/cleaned_f1_data.csv...
-2025-05-01 01:13:36,728 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 30)
-2025-05-01 01:13:36,728 - DatasetBuilder - INFO - Generating summary file at data/processed/summary.txt...
-2025-05-01 01:13:36,778 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 01:13:36,779 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-
-2025-05-01 01:13:37,267 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-01 01:13:37,267 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-01 01:13:37,321 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (7745, 30)
-2025-05-01 01:13:37,321 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (7745, 30)
-2025-05-01 01:13:37,321 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-01 01:13:37,321 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-01 01:13:37,322 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-01 01:13:37,322 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-01 01:13:37,322 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-01 01:13:37,322 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-01 01:13:37,322 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-01 01:13:37,322 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-01 01:13:37,324 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 7745
-2025-05-01 01:13:37,324 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 7745
-2025-05-01 01:13:37,328 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-01 01:13:37,328 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-01 01:13:37,332 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-01 01:13:37,332 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-01 01:13:37,332 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-01 01:13:37,332 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-01 01:13:37,333 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-01 01:13:37,333 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-01 01:13:37,335 - XGBoostTrainer - INFO - Training set shape: (6196, 20), Test set shape: (1549, 20)
-2025-05-01 01:13:37,335 - XGBoostTrainer - INFO - Training set shape: (6196, 20), Test set shape: (1549, 20)
-2025-05-01 01:13:37,335 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-01 01:13:37,335 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-01 01:15:00,117 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-01 01:15:00,117 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-01 01:15:00,117 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'subsample': 0.7}
-2025-05-01 01:15:00,117 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'subsample': 0.7}
-2025-05-01 01:15:00,118 - XGBoostTrainer - INFO - Best CV RMSE: 2.3601
-2025-05-01 01:15:00,118 - XGBoostTrainer - INFO - Best CV RMSE: 2.3601
-2025-05-01 01:15:00,124 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 2.2437
-2025-05-01 01:15:00,124 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 2.2437
-2025-05-01 01:15:00,124 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-01 01:15:00,124 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-01 01:15:00,138 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-01 01:15:00,138 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-01 01:15:00,138 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-01 01:15:00,138 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-01 01:15:00,838 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-01 01:15:00,838 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-01 01:15:00,838 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-01 01:15:00,838 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-01 01:15:01,097 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-01 01:15:01,097 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-01 01:15:01,097 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-01 01:15:01,097 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-01 01:15:01,099 - Menu - INFO - Model retraining successful.
-2025-05-01 08:44:46,497 - Main - INFO - Starting F1 ML Project
-2025-05-01 08:44:46,541 - Menu - INFO - Successfully loaded driver map from data/processed/driver_map.csv. 53 drivers found.
-2025-05-01 08:45:31,553 - Menu - INFO - User selected: Update Training Data & Retrain Model
-2025-05-01 08:45:31,619 - Menu - ERROR - Dataset builder failed:
-Stdout: 
-Stderr:   File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/dataset_builder.py", line 54
-    logger.warning(f"Column 
-                   ^
-SyntaxError: unterminated string literal (detected at line 54)
-
-2025-05-01 08:49:37,021 - Main - INFO - Starting F1 ML Project
-2025-05-01 08:49:37,025 - Menu - INFO - Successfully loaded driver map from data/processed/driver_map.csv. 53 drivers found.
-2025-05-01 08:50:28,952 - Menu - INFO - User selected: Update Training Data & Retrain Model
-2025-05-01 08:50:29,840 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 08:50:29,840 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Loaded weather_data: (0, 11)
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5)
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 08:50:29,994 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
-2025-05-01 08:50:30,031 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 08:50:30,031 - DatasetBuilder - DEBUG - Columns after lap+session merge: ['date_start', 'driver_number', 'duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'is_pit_out_lap', 'lap_duration', 'lap_number', 'segments_sector_1', 'segments_sector_2', 'segments_sector_3', 'session_key', 'st_speed', 'country_name', 'date', 'session_name', 'meeting_key']
-2025-05-01 08:50:30,032 - DatasetBuilder - WARNING - Weather data is empty or None. Skipping weather merge.
-2025-05-01 08:50:30,039 - DatasetBuilder - INFO - Inferred "session_type" from "session_name".
-2025-05-01 08:50:30,039 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 08:50:30,083 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
-2025-05-01 08:50:30,083 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
-2025-05-01 08:50:30,120 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 98.347.
-2025-05-01 08:50:30,120 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 08:50:30,141 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 08:50:30,145 - DatasetBuilder - INFO - Filtered out 1926 rows with invalid lap_duration (<= 0). Rows remaining: 7745
-2025-05-01 08:50:30,147 - DatasetBuilder - WARNING - Median and Mean for air_temperature are NaN, filling with 0.
-2025-05-01 08:50:30,148 - DatasetBuilder - WARNING - Median and Mean for humidity are NaN, filling with 0.
-2025-05-01 08:50:30,148 - DatasetBuilder - WARNING - Median and Mean for pressure are NaN, filling with 0.
-2025-05-01 08:50:30,149 - DatasetBuilder - WARNING - Median and Mean for rainfall are NaN, filling with 0.
-2025-05-01 08:50:30,150 - DatasetBuilder - WARNING - Median and Mean for track_temperature are NaN, filling with 0.
-2025-05-01 08:50:30,151 - DatasetBuilder - WARNING - Median and Mean for wind_direction are NaN, filling with 0.
-2025-05-01 08:50:30,152 - DatasetBuilder - WARNING - Median and Mean for wind_speed are NaN, filling with 0.
-2025-05-01 08:50:30,167 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
-2025-05-01 08:50:30,185 - DatasetBuilder - WARNING - Still missing values after cleaning: 17
-2025-05-01 08:50:30,205 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1    11
-segments_sector_2     4
-segments_sector_3     2
-dtype: int64
-2025-05-01 08:50:30,205 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 08:50:30,205 - DatasetBuilder - INFO - Saving cleaned data to /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/cleaned_f1_data.csv...
-2025-05-01 08:50:30,616 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 30)
-2025-05-01 08:50:30,617 - DatasetBuilder - INFO - Generating summary file at /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/summary.txt...
-2025-05-01 08:50:30,714 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 08:50:30,714 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-2025-05-01 08:50:30,836 - Menu - INFO - Dataset builder output:
-
-2025-05-01 08:50:30,836 - Menu - WARNING - Dataset builder stderr:
-2025-05-01 08:50:29,840 - DatasetBuilder - INFO - --- Starting Dataset Builder --- 
-2025-05-01 08:50:29,840 - DatasetBuilder - INFO - Loading raw data files...
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Loaded weather_data: (0, 11)
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Loaded lap_data: (9671, 16), session_data: (28, 5)
-2025-05-01 08:50:29,993 - DatasetBuilder - INFO - Starting data merging...
-2025-05-01 08:50:29,994 - DatasetBuilder - INFO - Merging lap_data with session_data on "session_key"...
-2025-05-01 08:50:30,031 - DatasetBuilder - INFO - Rows after merging laps and sessions: 9671
-2025-05-01 08:50:30,032 - DatasetBuilder - WARNING - Weather data is empty or None. Skipping weather merge.
-2025-05-01 08:50:30,039 - DatasetBuilder - INFO - Inferred "session_type" from "session_name".
-2025-05-01 08:50:30,039 - DatasetBuilder - INFO - Data merging complete.
-2025-05-01 08:50:30,083 - DatasetBuilder - INFO - Added "year" and "race_weekend" columns.
-2025-05-01 08:50:30,083 - DatasetBuilder - INFO - Adding rolling lap time features with window size 3...
-/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/dataset_builder.py:105: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
-The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
-
-For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
-
-
-  df_sorted[rolling_col_name].fillna(overall_median_lap_time, inplace=True)
-2025-05-01 08:50:30,120 - DatasetBuilder - INFO - Calculated rolling_avg_lap_time_3. Filled NaNs with 98.347.
-2025-05-01 08:50:30,120 - DatasetBuilder - INFO - Starting cleaning. Initial rows: 9671
-2025-05-01 08:50:30,141 - DatasetBuilder - INFO - Rows after filtering session types (['practice', 'qualifying', 'race', 'sprint']): 9671
-2025-05-01 08:50:30,145 - DatasetBuilder - INFO - Filtered out 1926 rows with invalid lap_duration (<= 0). Rows remaining: 7745
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,147 - DatasetBuilder - WARNING - Median and Mean for air_temperature are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,148 - DatasetBuilder - WARNING - Median and Mean for humidity are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,148 - DatasetBuilder - WARNING - Median and Mean for pressure are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,149 - DatasetBuilder - WARNING - Median and Mean for rainfall are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,150 - DatasetBuilder - WARNING - Median and Mean for track_temperature are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,151 - DatasetBuilder - WARNING - Median and Mean for wind_direction are NaN, filling with 0.
-/usr/local/lib/python3.11/dist-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
-  return np.nanmean(a, axis, out=out, keepdims=keepdims)
-2025-05-01 08:50:30,152 - DatasetBuilder - WARNING - Median and Mean for wind_speed are NaN, filling with 0.
-2025-05-01 08:50:30,167 - DatasetBuilder - INFO - Filled NaN values using median/mean for numeric or default for others.
-2025-05-01 08:50:30,185 - DatasetBuilder - WARNING - Still missing values after cleaning: 17
-2025-05-01 08:50:30,205 - DatasetBuilder - WARNING - Columns with remaining NaNs:
-segments_sector_1    11
-segments_sector_2     4
-segments_sector_3     2
-dtype: int64
-2025-05-01 08:50:30,205 - DatasetBuilder - INFO - Cleaning complete. Final rows: 7745
-2025-05-01 08:50:30,205 - DatasetBuilder - INFO - Saving cleaned data to /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/cleaned_f1_data.csv...
-2025-05-01 08:50:30,616 - DatasetBuilder - INFO - Data saved successfully. Shape: (7745, 30)
-2025-05-01 08:50:30,617 - DatasetBuilder - INFO - Generating summary file at /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/summary.txt...
-2025-05-01 08:50:30,714 - DatasetBuilder - INFO - Summary generated successfully.
-2025-05-01 08:50:30,714 - DatasetBuilder - INFO - --- Dataset Builder Finished --- 
-
-2025-05-01 08:50:31,591 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-01 08:50:31,591 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-01 08:50:31,664 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (7745, 30)
-2025-05-01 08:50:31,664 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (7745, 30)
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-01 08:50:31,665 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-01 08:50:31,666 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-01 08:50:31,666 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-01 08:50:31,671 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 7745
-2025-05-01 08:50:31,671 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 7745
-2025-05-01 08:50:31,677 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-01 08:50:31,677 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-01 08:50:31,684 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-01 08:50:31,684 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-01 08:50:31,684 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-01 08:50:31,684 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-01 08:50:31,685 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-01 08:50:31,685 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-01 08:50:31,689 - XGBoostTrainer - INFO - Training set shape: (6196, 20), Test set shape: (1549, 20)
-2025-05-01 08:50:31,689 - XGBoostTrainer - INFO - Training set shape: (6196, 20), Test set shape: (1549, 20)
-2025-05-01 08:50:31,690 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-01 08:50:31,690 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-01 08:52:03,635 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-01 08:52:03,635 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-01 08:52:03,636 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0.1, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'subsample': 0.9}
-2025-05-01 08:52:03,636 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0.1, 'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'subsample': 0.9}
-2025-05-01 08:52:03,636 - XGBoostTrainer - INFO - Best CV RMSE: 2.3540
-2025-05-01 08:52:03,636 - XGBoostTrainer - INFO - Best CV RMSE: 2.3540
-2025-05-01 08:52:03,647 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 2.3718
-2025-05-01 08:52:03,647 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 2.3718
-2025-05-01 08:52:03,647 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-01 08:52:03,647 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-01 08:52:03,685 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-01 08:52:03,685 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-01 08:52:03,685 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-01 08:52:03,685 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-01 08:52:04,531 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-01 08:52:04,531 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-01 08:52:04,531 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-01 08:52:04,531 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-01 08:52:04,811 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-01 08:52:04,811 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-01 08:52:04,811 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-01 08:52:04,811 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-01 08:52:04,813 - Menu - INFO - Model retraining successful.
-2025-05-02 23:00:27,526 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-02 23:00:27,533 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
-2025-05-02 23:01:02,382 - SimulationMenu - INFO - User selected: Simulate Past Qualifying
-2025-05-02 23:01:02,383 - SimulationMenu - INFO - Loading data from /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/cleaned_f1_data.csv
-2025-05-02 23:01:02,437 - SimulationMenu - INFO - Data loaded. Shape: (7745, 30)
-2025-05-02 23:01:10,977 - SimulationMenu - INFO - User selected race weekend: 2025_Saudi_Arabia
-2025-05-02 23:01:10,981 - SimulationMenu - INFO - Filtered data for 2025_Saudi_Arabia qualifying simulation. Input rows: 881
-2025-05-02 23:01:11,053 - SimulationMenu - INFO - Simulation successful for 2025_Saudi_Arabia. Displayed top 10.
-2025-05-02 23:27:12,094 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-02 23:27:12,119 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
-2025-05-02 23:27:54,616 - DataMenu - INFO - Attempting to run script: /home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py from /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-02 23:27:54,862 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-02 23:27:55,034 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:27:56,250 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:27:58,559 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:05,457 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,721 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2023. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,721 - SessionFetcher - ERROR - Failed to fetch or process session data for 2023. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,724 - SessionFetcher - WARNING - No sessions fetched for year 2023.
-2025-05-02 23:28:19,903 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:21,156 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:23,659 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:27,833 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,514 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2024. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,514 - SessionFetcher - ERROR - Failed to fetch or process session data for 2024. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,515 - SessionFetcher - WARNING - No sessions fetched for year 2024.
-2025-05-02 23:28:37,682 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:38,937 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:41,287 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:45,457 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,661 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2025. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,661 - SessionFetcher - ERROR - Failed to fetch or process session data for 2025. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,662 - SessionFetcher - WARNING - No sessions fetched for year 2025.
-2025-05-02 23:28:54,662 - SessionFetcher - ERROR - No sessions fetched for any year. Check API or configuration.
-2025-05-02 23:28:54,689 - DataMenu - INFO - Script data_pipeline/session_fetcher.py stdout:
-
-🚀 Starting Session Fetcher for years: [2023, 2024, 2025]
-
-🔄 Fetching year 2023 (1/3)...
-   API request failed (500), retrying in 1s... (1/5)
-   API request failed (500), retrying in 2s... (2/5)
-   API request failed (500), retrying in 4s... (3/5)
-   API request failed (500), retrying in 8s... (4/5)
-❌ Max retries reached for API request: https://api.openf1.org/sessions?year=2023. See logs.
-
-❌ Error processing data for year 2023: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-
-🔄 Fetching year 2024 (2/3)...
-   API request failed (500), retrying in 1s... (1/5)
-   API request failed (500), retrying in 2s... (2/5)
-   API request failed (500), retrying in 4s... (3/5)
-   API request failed (500), retrying in 8s... (4/5)
-❌ Max retries reached for API request: https://api.openf1.org/sessions?year=2024. See logs.
-
-❌ Error processing data for year 2024: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-
-🔄 Fetching year 2025 (3/3)...
-   API request failed (500), retrying in 1s... (1/5)
-   API request failed (500), retrying in 2s... (2/5)
-   API request failed (500), retrying in 4s... (3/5)
-   API request failed (500), retrying in 8s... (4/5)
-❌ Max retries reached for API request: https://api.openf1.org/sessions?year=2025. See logs.
-
-❌ Error processing data for year 2025: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-
-❌ Session Fetcher Finished: Failed to fetch any session data.
-
-2025-05-02 23:28:54,689 - DataMenu - WARNING - Script data_pipeline/session_fetcher.py stderr:
-2025-05-02 23:27:54,862 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-02 23:27:55,034 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:27:56,250 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:27:58,559 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:05,457 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,721 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2023. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,721 - SessionFetcher - ERROR - Failed to fetch or process session data for 2023. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2023
-2025-05-02 23:28:18,724 - SessionFetcher - WARNING - No sessions fetched for year 2023.
-2025-05-02 23:28:19,903 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:21,156 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:23,659 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:27,833 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,514 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2024. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,514 - SessionFetcher - ERROR - Failed to fetch or process session data for 2024. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2024
-2025-05-02 23:28:36,515 - SessionFetcher - WARNING - No sessions fetched for year 2024.
-2025-05-02 23:28:37,682 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:38,937 - SessionFetcher - WARNING - Request failed (500), retrying in 2 seconds... (2/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:41,287 - SessionFetcher - WARNING - Request failed (500), retrying in 4 seconds... (3/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:45,457 - SessionFetcher - WARNING - Request failed (500), retrying in 8 seconds... (4/5) URL: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,661 - SessionFetcher - ERROR - Max retries reached for https://api.openf1.org/sessions?year=2025. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,661 - SessionFetcher - ERROR - Failed to fetch or process session data for 2025. Error: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-Traceback (most recent call last):
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 67, in fetch_sessions_for_year
-    sessions_data = fetch_with_retry(url)
-                    ^^^^^^^^^^^^^^^^^^^^^
-  File "/home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py", line 38, in fetch_with_retry
-    response.raise_for_status() # Raises HTTPError for bad responses (4xx or 5xx)
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/local/lib/python3.11/dist-packages/requests/models.py", line 1024, in raise_for_status
-    raise HTTPError(http_error_msg, response=self)
-requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.openf1.org/sessions?year=2025
-2025-05-02 23:28:54,662 - SessionFetcher - WARNING - No sessions fetched for year 2025.
-2025-05-02 23:28:54,662 - SessionFetcher - ERROR - No sessions fetched for any year. Check API or configuration.
-
-2025-05-02 23:40:07,965 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-02 23:40:07,968 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
-2025-05-02 23:41:44,614 - DataMenu - INFO - Attempting to run script: /home/ubuntu/f1_project_analysis/f1_ml_project/data_pipeline/session_fetcher.py from /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-02 23:41:45,028 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-02 23:41:50,251 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/sessions?year=2023
-2025-05-02 23:41:52,085 - SessionFetcher - INFO - Retrieved 112 session entries for 2023.
-2025-05-02 23:41:58,481 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/sessions?year=2024
-2025-05-02 23:42:00,605 - SessionFetcher - INFO - Retrieved 120 session entries for 2024.
-2025-05-02 23:42:02,636 - SessionFetcher - INFO - Retrieved 30 session entries for 2025.
-2025-05-02 23:42:02,638 - SessionFetcher - INFO - Combined session data saved to /home/ubuntu/f1_project_analysis/f1_ml_project/data/raw/session_raw.csv. Total sessions: 262
-2025-05-02 23:42:02,638 - SessionFetcher - INFO - Successfully fetched a total of 262 sessions across all years.
-2025-05-02 23:42:02,662 - DataMenu - INFO - Script data_pipeline/session_fetcher.py stdout:
-
-🚀 Starting Session Fetcher for years: [2023, 2024, 2025]
-
-🔄 Fetching year 2023 (1/3)...
-   API request failed (500), retrying in 1s... (1/5)
-   Retrieved 112 session entries for 2023.
-
-🔄 Fetching year 2024 (2/3)...
-   API request failed (500), retrying in 1s... (1/5)
-   Retrieved 120 session entries for 2024.
-
-🔄 Fetching year 2025 (3/3)...
-   Retrieved 30 session entries for 2025.
-
-💾 Saving 262 sessions to /home/ubuntu/f1_project_analysis/f1_ml_project/data/raw/session_raw.csv...
-   Save complete.
-
-🏁 Session Fetcher Finished: Fetched 262 sessions total.
-
-2025-05-02 23:42:02,662 - DataMenu - WARNING - Script data_pipeline/session_fetcher.py stderr:
-2025-05-02 23:41:45,028 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-02 23:41:50,251 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/sessions?year=2023
-2025-05-02 23:41:52,085 - SessionFetcher - INFO - Retrieved 112 session entries for 2023.
-2025-05-02 23:41:58,481 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/sessions?year=2024
-2025-05-02 23:42:00,605 - SessionFetcher - INFO - Retrieved 120 session entries for 2024.
-2025-05-02 23:42:02,636 - SessionFetcher - INFO - Retrieved 30 session entries for 2025.
-2025-05-02 23:42:02,638 - SessionFetcher - INFO - Combined session data saved to /home/ubuntu/f1_project_analysis/f1_ml_project/data/raw/session_raw.csv. Total sessions: 262
-2025-05-02 23:42:02,638 - SessionFetcher - INFO - Successfully fetched a total of 262 sessions across all years.
-
-2025-05-03 00:20:08,517 - Main - INFO - Starting F1 ML Project from root: /home/ubuntu/f1_project_analysis/f1_ml_project
-2025-05-03 00:20:08,541 - MenuUtils - INFO - Successfully loaded driver map from /home/ubuntu/f1_project_analysis/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
-2025-05-03 00:20:42,971 - MainMenu - INFO - Logging status changed to: False
-2025-05-04 09:03:24,848 - XGBoostTrainer - INFO - Starting model training script...
-2025-05-04 09:03:24,849 - XGBoostTrainer - INFO - Loading data from: data/processed/cleaned_f1_data.csv
-2025-05-04 09:03:25,218 - XGBoostTrainer - INFO - Data loaded successfully. Shape: (135551, 30)
-2025-05-04 09:03:25,221 - XGBoostTrainer - WARNING - Desired feature 'team_name' not found in data and will be skipped.
-2025-05-04 09:03:25,221 - XGBoostTrainer - WARNING - Desired feature 'circuit_key' not found in data and will be skipped.
-2025-05-04 09:03:25,221 - XGBoostTrainer - WARNING - Desired feature 'compound' not found in data and will be skipped.
-2025-05-04 09:03:25,221 - XGBoostTrainer - INFO - Using features: ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall', 'track_temperature', 'wind_direction', 'wind_speed', 'lap_number', 'is_pit_out_lap', 'rolling_avg_lap_time_3', 'driver_number', 'session_type']
-2025-05-04 09:03:25,235 - XGBoostTrainer - INFO - Rows after dropping NaN in target: 135551
-2025-05-04 09:03:25,243 - XGBoostTrainer - INFO - Applying one-hot encoding...
-2025-05-04 09:03:25,254 - XGBoostTrainer - INFO - Final features after encoding and sanitization (20): ['duration_sector_1', 'duration_sector_2', 'duration_sector_3', 'i1_speed', 'i2_speed', 'st_speed', 'air_temperature', 'humidity', 'pressure', 'rainfall']...
-2025-05-04 09:03:25,255 - XGBoostTrainer - INFO - Training columns saved to models/training_columns.txt
-2025-05-04 09:03:25,255 - XGBoostTrainer - INFO - Splitting data into training and testing sets (80/20 split)...
-2025-05-04 09:03:25,265 - XGBoostTrainer - INFO - Training set shape: (108440, 20), Test set shape: (27111, 20)
-2025-05-04 09:03:25,265 - XGBoostTrainer - INFO - Running GridSearchCV for hyperparameter tuning...
-2025-05-04 09:05:47,944 - XGBoostTrainer - INFO - GridSearchCV completed.
-2025-05-04 09:05:47,946 - XGBoostTrainer - INFO - Best parameters found: {'colsample_bytree': 0.7, 'gamma': 0.1, 'learning_rate': 0.05, 'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0, 'subsample': 0.9}
-2025-05-04 09:05:47,946 - XGBoostTrainer - INFO - Best CV RMSE: 30.9228
-2025-05-04 09:05:47,975 - XGBoostTrainer - INFO - Test Set RMSE of Best Model: 35.2833
-2025-05-04 09:05:47,975 - XGBoostTrainer - INFO - Saving the best model to models/xgb_best_model.json...
-2025-05-04 09:05:48,001 - XGBoostTrainer - INFO - Model saved successfully.
-2025-05-04 09:05:48,002 - XGBoostTrainer - INFO - Generating feature importance plot...
-2025-05-04 09:05:48,947 - XGBoostTrainer - INFO - Feature importance plot saved to visuals/feature_importance.png
-2025-05-04 09:05:48,948 - XGBoostTrainer - INFO - Generating prediction error distribution plot...
-2025-05-04 09:05:49,020 - XGBoostTrainer - INFO - Error distribution plot saved to visuals/error_distribution.png
-2025-05-04 09:05:49,020 - XGBoostTrainer - INFO - Model training process completed.
-2025-05-04 09:05:49,034 - XGBoostTrainer - INFO - Model training finished successfully.
-2025-05-05 09:19:06,570 - Main - INFO - Starting F1 ML Project from root: /Users/brendan/Python/f1_ml_project
-2025-05-05 09:19:06,574 - MenuUtils - INFO - Successfully loaded driver map from /Users/brendan/Python/f1_ml_project/data/processed/driver_map.csv. 53 drivers found.
-2025-05-05 09:19:15,436 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/session_fetcher.py from /Users/brendan/Python/f1_ml_project
-2025-05-05 09:19:15,551 - SessionFetcher - INFO - --- Starting Session Fetcher for years: [2023, 2024, 2025] ---
-2025-05-05 09:19:17,606 - SessionFetcher - INFO - Retrieved 112 session entries for 2023.
-2025-05-05 09:19:20,514 - SessionFetcher - INFO - Retrieved 120 session entries for 2024.
-2025-05-05 09:19:28,956 - SessionFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/sessions?year=2025
-2025-05-05 09:19:31,469 - SessionFetcher - INFO - Retrieved 33 session entries for 2025.
-2025-05-05 09:19:31,472 - SessionFetcher - INFO - Combined session data saved to /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv. Total sessions: 265
-2025-05-05 09:19:31,473 - SessionFetcher - INFO - Successfully fetched a total of 265 sessions across all years.
-2025-05-05 09:19:31,501 - DataMenu - INFO - Script data_pipeline/session_fetcher.py finished successfully. RC: 0
-2025-05-05 09:19:39,343 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/lap_collector.py from /Users/brendan/Python/f1_ml_project
-2025-05-05 09:19:39,470 - LapCollector - INFO - --- Starting Lap Collector (v1.20 - Failed Session Cleanup) --- 
-2025-05-05 09:19:44,975 - LapCollector - INFO - Loaded 265 completed session keys from /Users/brendan/Python/f1_ml_project/data/raw/done_sessions.txt
-2025-05-05 09:19:44,977 - LapCollector - INFO - Found 265 sessions in /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv.
-2025-05-05 09:19:44,978 - LapCollector - INFO - Total sessions in CSV: 265
-2025-05-05 09:19:44,978 - LapCollector - INFO - Sessions already completed: 265
-2025-05-05 09:19:44,978 - LapCollector - INFO - Sessions remaining to fetch: 0
-2025-05-05 09:19:44,978 - LapCollector - INFO - No new sessions to fetch.
-2025-05-05 09:19:44,978 - LapCollector - INFO - --- Lap Collector Finished --- 
-2025-05-05 09:19:44,993 - DataMenu - INFO - Script data_pipeline/lap_collector.py finished successfully. RC: 0
-2025-05-05 09:19:49,763 - DataMenu - INFO - Attempting to run script: /Users/brendan/Python/f1_ml_project/data_pipeline/weather_fetcher.py from /Users/brendan/Python/f1_ml_project
-2025-05-05 09:19:49,906 - WeatherFetcher - INFO - Loaded 265 sessions from /Users/brendan/Python/f1_ml_project/data/raw/session_raw.csv
-2025-05-05 09:19:49,906 - WeatherFetcher - INFO - 🌤️ Starting weather fetch for 265 sessions...
-2025-05-05 09:24:08,423 - WeatherFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/weather?meeting_key=1236&session_key=9519
-2025-05-05 09:24:57,020 - WeatherFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/weather?meeting_key=1240&session_key=9553
-2025-05-05 09:25:28,155 - WeatherFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/weather?meeting_key=1242&session_key=9574
-2025-05-05 09:27:38,005 - WeatherFetcher - WARNING - Request failed (500), retrying in 1 seconds... (1/5) URL: https://api.openf1.org/v1/weather?meeting_key=1256&session_key=10001
-2025-05-05 09:28:18,265 - WeatherFetcher - INFO - Appended weather data for 265 sessions to /Users/brendan/Python/f1_ml_project/data/raw/weather_raw.csv
-2025-05-05 09:28:18,266 - WeatherFetcher - INFO - ✅ Finished weather fetch. Attempted: 265, Saved: 265.
-2025-05-05 09:28:18,295 - DataMenu - INFO - Script data_pipeline/weather_fetcher.py finished successfully. RC: 0
+2025-05-05 12:04:02,594 - DatasetBuilder - INFO - Cleaning complete. Final rows: 131459
+2025-05-05 12:04:02,594 - DatasetBuilder - INFO - Saving cleaned data to /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv...
+2025-05-05 12:04:04,245 - DatasetBuilder - INFO - Successfully saved 131459 rows to /Users/brendan/Python/f1_ml_project/data/processed/cleaned_f1_data.csv.
+2025-05-05 12:04:04,245 - DatasetBuilder - INFO - Generating summary report to /Users/brendan/Python/f1_ml_project/data/processed/summary.txt...
+2025-05-05 12:04:04,381 - DatasetBuilder - INFO - Summary report generated successfully.
+2025-05-05 12:04:04,381 - DatasetBuilder - INFO - Dataset builder pipeline finished.
+2025-05-05 12:04:04,448 - DataMenu - INFO - Script data_pipeline/dataset_builder.py finished successfully. RC: 0
+2025-05-05 12:09:21,761 - MainMenu - INFO - User exited program.

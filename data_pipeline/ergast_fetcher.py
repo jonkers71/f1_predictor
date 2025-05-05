@@ -11,16 +11,19 @@ import time
 
 # Configuration
 BASE_URL = "http://ergast.com/api/f1"
-START_YEAR = 2023 # Align with OpenF1 data availability
-END_YEAR = 2024   # Adjust as needed
-OUTPUT_DIR = "../data/raw"
+START_YEAR = 2023  # Align with OpenF1 data availability
+END_YEAR = 2024    # Adjust as needed
+
+# Corrected output path within f1_ml_project/data/raw/
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "..", "data", "raw")
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "ergast_race_results.csv")
-REQUEST_DELAY = 0.2 # Seconds to wait between requests to be polite
+REQUEST_DELAY = 0.2  # Seconds between API calls to be polite
 
 def fetch_race_results(year, round_num):
     """Fetches race results for a specific year and round."""
     results = []
-    limit = 100 # Max results per page for Ergast
+    limit = 100
     offset = 0
     print(f"   Fetching {year} Round {round_num}...", end="", flush=True)
 
@@ -28,18 +31,18 @@ def fetch_race_results(year, round_num):
         url = f"{BASE_URL}/{year}/{round_num}/results.json?limit={limit}&offset={offset}"
         try:
             response = requests.get(url, timeout=10)
-            response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
+            response.raise_for_status()
             data = response.json()
 
             race_data = data.get('MRData', {}).get('RaceTable', {}).get('Races', [])
             if not race_data:
                 print(f" No race data found.")
-                return None # No race found for this year/round combination
+                return None
 
             race_results = race_data[0].get('Results', [])
             if not race_results:
                 print(f" No results found.")
-                break # No more results for this race
+                break
 
             for result in race_results:
                 driver_info = result.get('Driver', {})
@@ -53,17 +56,16 @@ def fetch_race_results(year, round_num):
                     'status': result.get('status')
                 })
 
-            # Check if we need to fetch more pages
             total_results = int(data.get('MRData', {}).get('total', 0))
             if offset + limit >= total_results:
-                break # Got all results
+                break
             else:
                 offset += limit
                 time.sleep(REQUEST_DELAY)
 
         except requests.exceptions.RequestException as e:
             print(f"\n      Error fetching {year} Round {round_num}: {e}")
-            return None # Indicate failure for this race
+            return None
         except Exception as e:
             print(f"\n      Unexpected error processing {year} Round {round_num}: {e}")
             return None
@@ -92,7 +94,7 @@ def main():
     all_results = []
     print(f"Fetching race results from {START_YEAR} to {END_YEAR}...")
 
-    # Ensure output directory exists
+    # Ensure the output directory exists
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     for year in range(START_YEAR, END_YEAR + 1):
@@ -107,19 +109,17 @@ def main():
             race_results = fetch_race_results(year, round_num)
             if race_results:
                 all_results.extend(race_results)
-            time.sleep(REQUEST_DELAY) # Be polite between rounds
+            time.sleep(REQUEST_DELAY)
 
     if not all_results:
         print("\nNo results fetched. Exiting.")
         return
 
-    # Write to CSV
     print(f"\nWriting {len(all_results)} total results to {OUTPUT_FILE}...")
     try:
         with open(OUTPUT_FILE, 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['year', 'round', 'driver_id', 'driver_number', 'position', 'points', 'status']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
             writer.writeheader()
             writer.writerows(all_results)
         print("Successfully wrote results to CSV.")
@@ -130,4 +130,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
